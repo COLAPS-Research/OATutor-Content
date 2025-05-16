@@ -27,6 +27,20 @@
                     "undoing_changes": 0.85,
                     "collaboration_and_workflows": 0.85
                 }
+            },
+            {
+                "id": "group2_latex",
+                "name": "LaTeX 101",
+                "topics": "LaTeX",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "document_structure": 0.85,
+                    "greek_letters": 0.85,
+                    "formulars": 0.85,
+                    "keywords": 0.85,
+                    "text_editor_knowledge": 0.85,
+                    "packages": 0.85
+                }
             }
         ]
     }
