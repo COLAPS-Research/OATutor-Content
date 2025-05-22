@@ -1,0 +1,52 @@
+[
+    {
+        "id": "latex005a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Invalid LaTeX pt1",
+        "text": "One may install additonal features into LaTeX. Thus unknown keywords may very well be valid. We woudn't ask such a mean question!",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex005a-h2",
+        "type": "hint",
+        "dependencies": ["latex005a-h1"],
+        "title": "Invalid LaTeX pt2",
+        "text": "There is only one correct answer",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex005a-h3",
+        "type": "hint",
+        "dependencies": ["latex005a-h2"],
+        "title": "Invalid LaTeX pt3",
+        "text": "Recall what you know about the keywords and characters with special meanings",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex005a-h4",
+        "type": "hint",
+        "dependencies": ["latex005a-h3"],
+        "title": "Invalid LaTeX pt4",
+        "text": "If you wanted to print {} what would you have to do?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex005a-h5",
+        "type": "hint",
+        "dependencies": ["latex005a-h4"],
+        "title": "Invalid LaTeX pt5",
+        "text": "The answer is number 3. The } is not closed properly as \\{ escapes and printes {.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

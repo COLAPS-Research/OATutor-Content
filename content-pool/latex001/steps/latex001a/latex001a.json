@@ -1,12 +1,18 @@
 {
     "id": "latex001a",
     "stepAnswer": [
-        "Marie Curie"
+        "A markup language to programmaticaly describe, manage and update a document layout and its content"
     ],
-    "problemType": "TextBox",
-    "stepTitle": "Who is this famous scientist known for her work on radioactivity?",
-    "stepBody": "Hint: She was born in 1867. ",
+    "problemType": "MultipleChoice",
+    "stepTitle": "What is LaTeX?",
+    "stepBody": "",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "Marie Curie"
+    "choices": [
+        "A markup language to programmaticaly describe, manage and update a document layout and its content",
+        "A Texteditor",
+        "An Operatingsystem",
+        "Young people slang for latin"
+    ],
+    "answerLatex": "A markup language to programmaticaly describe, manage and update a document layout and its content"
 }

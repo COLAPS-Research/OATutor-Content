@@ -1,0 +1,10 @@
+{
+    "id": "latex003",
+    "title": "Write an equation that looks like this : $\\Sigma_{i=1}^n x_i + 2$",
+    "body": "Write an equation that looks like this : $\\Sigma_{i=1}^n x_i + 2$",
+    "variabilization": {},
+    "oer": "https://en.wikipedia.org/wiki/LaTeX#Mathematical_expressions <Wikipedia: LaTeX Mathematical Expressions>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+    "lesson": "LaTeX 101",
+    "courseName": "ILE Lab"
+}

@@ -35,6 +35,19 @@
     ],
 
     "latex001a": [
+        "text_editor_knowledge"
+    ],
+    "latex002a": [
         "document_structure"
+    ],
+    "latex003a": [
+        "formulars",
+        "greek_letters"
+    ],
+    "latex004a": [
+        "packages"
+    ],
+    "latex005a": [
+        "keywords"
     ]
 }

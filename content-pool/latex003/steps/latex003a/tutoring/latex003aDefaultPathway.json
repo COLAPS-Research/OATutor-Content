@@ -1,0 +1,62 @@
+[
+    {
+        "id": "latex003a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Equation Writing pt1",
+        "text": "What ways do you know to write an equation in latex? Which one would be the simplest one?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex003a-h2",
+        "type": "hint",
+        "dependencies": ["latex003a-h1"],
+        "title": "Equation Writing pt2",
+        "text": "Mathematics relays on variables like x, y and z. What other language and its letters can be found in mathematics?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex003a-h3",
+        "type": "hint",
+        "dependencies": ["latex003a-h2"],
+        "title": "Equation Writing pt3",
+        "text": "If certain words serve as keywords to do something, like render a Greek letter, then you couldn't write that keyword into a text anymore, could you? Does LaTeX have a way to deal with that?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex003a-h4",
+        "type": "hint",
+        "dependencies": ["latex003a-h3"],
+        "title": "Equation Writing pt4",
+        "text": "You can put thing below or above other things by using _ and ^ respectively",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex003a-h5",
+        "type": "hint",
+        "dependencies": ["latex003a-h4"],
+        "title": "Equation Writing pt5",
+        "text": "Sometimes you want to group things together to affect them all together. How does Mathematics notate things in a group?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex003a-h6",
+        "type": "hint",
+        "dependencies": ["latex003a-h5"],
+        "title": "Equation Writing pt6",
+        "text": "Here is the answer $\\Sigma_{i=1}^n x_i + 2$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

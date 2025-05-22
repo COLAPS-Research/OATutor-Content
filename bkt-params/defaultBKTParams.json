@@ -47,6 +47,7 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+
     "document_structure": {
         "probMastery": 0.1,
         "probTransit": 0.1,

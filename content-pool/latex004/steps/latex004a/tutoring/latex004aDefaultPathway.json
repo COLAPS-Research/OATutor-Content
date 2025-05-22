@@ -1,0 +1,52 @@
+[
+    {
+        "id": "latex004a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Including Graphics pt1",
+        "text": "There is no need to overcomplicate. You simply need to show the diagram, no special positioning needed.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex004a-h2",
+        "type": "hint",
+        "dependencies": ["latex004a-h1"],
+        "title": "Including Graphics pt2",
+        "text": "Basicaly, the task is to include a graphic, isn't it? Are the naming of such functions\\keywords arbitrary?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex004a-h3",
+        "type": "hint",
+        "dependencies": ["latex004a-h2"],
+        "title": "Including Graphics pt3",
+        "text": "The solution does have the form \\<Specific Keyword>{diagram1.pdf}",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex004a-h4",
+        "type": "hint",
+        "dependencies": ["latex004a-h3"],
+        "title": "Including Graphics pt4",
+        "text": "Including graphics can be suprisingly hard. Sometimes it would be nice if we simply could tell it to include graphics, right?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex004a-h5",
+        "type": "hint",
+        "dependencies": ["latex004a-h4"],
+        "title": "Including Graphics pt5",
+        "text": "The solution is \\includegraphics{diagram1.pdf}",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

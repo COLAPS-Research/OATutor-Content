@@ -1,0 +1,18 @@
+{
+    "id": "latex002a",
+    "stepAnswer": [
+        "Preamble + Textfile"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "How is a LaTeX File structured?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "Preamble + Textfile",
+        "It is not, Entropy consumes all",
+        "Header, Body and Footer",
+        "Each Sentence has it's own File"
+    ],
+    "answerLatex": "Preamble + Textfile"
+}
