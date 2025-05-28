@@ -1,0 +1,24 @@
+[
+    {
+        "id": "ml_04a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Which of these graphs likely shows an overfitted model?",
+        "text": " Look for the graph where the line tries to pass through almost every single blue dot, even if it means making sharp, 'wiggly' turns. 🐍",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ml_04a-h2",
+        "type": "hint",
+        "dependencies": [
+            "ml_04a-h1"
+        ],
+        "title": "Which model is likely to perform best on new data?",
+        "text": "An overfitted model follows the training data very closely but would likely miss new points that fall along the general trend. Which graph looks like that?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

@@ -1,0 +1,18 @@
+{
+    "id": "ml_02a",
+    "stepAnswer": [
+        "A model that memorizes the training data and performs poorly on new data"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What is the correct definition of overfitting?",
+    "stepBody": "What is the correct definition of overfitting?",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "A model that memorizes the training data and performs poorly on new data",
+            "A model that simplifies to improve generalization",
+            "A model that performs equally well on training and test data",
+            "A model that ignores the training data and predicts randomly"
+        ],
+    "answerLatex": "A model that memorizes the training data and performs poorly on new data"
+}

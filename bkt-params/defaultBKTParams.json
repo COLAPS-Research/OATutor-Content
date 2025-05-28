@@ -1,53 +1,107 @@
 {
-    "fundamental_concepts": {
+    "ml_fundamentals": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "historical_context": {
+    "overfitting_knowledge": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "research_significance": {
+    "underfitting_knowledge": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "basic_git_concepts": {
+    "fact_checking_ml_knowledge": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "basic_git_operations": {
+    "conceptual_differentiation": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "branching_and_merging": {
+    "data_interpretation": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "remote_repositories": {
+    "analytical_reasoning": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "undoing_changes": {
+    "generalization_understanding": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "collaboration_and_workflows": {
+    "model_complexity_awareness": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "bias_variance_intuition": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "graphical_analysis_ml": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "problem_diagnosis_ml": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "solution_knowledge_ml": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "definition_recall_ml": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "model_simplicity_risk": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "pattern_recognition_logic": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "comparative_model_evaluation": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "scenario_based_classification": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,

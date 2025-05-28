@@ -1,0 +1,12 @@
+{
+    "id": "ml_06a",
+    "stepAnswer": [
+        "Underfitting "
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "If a model is too simple to even learn the training data well, it's an example of ____.",
+    "stepBody": "If a model is too simple to even learn the training data well, it's an example of ____.",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "Underfitting "
+}

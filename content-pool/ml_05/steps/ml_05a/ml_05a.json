@@ -1,0 +1,12 @@
+{
+    "id": "ml_01a",
+    "stepAnswer": [
+        "Overfitting"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "A model that performs well on training data but poorly on test data is suffering from ____.",
+    "stepBody": "A model that performs well on training data but poorly on test data is suffering from ____.",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "Overfitting"
+}
