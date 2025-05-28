@@ -1,0 +1,24 @@
+[
+    {
+        "id": "zzzzz_fundamentals01a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "What make a model overfit?",
+        "text": "Think about what happens when a model is too focused on just the training data.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_fundamentals01a-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_fundamentals01a-h1"
+        ],
+        "title": "Definition",
+        "text": "Overfitting = memorizing instead of learning.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

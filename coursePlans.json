@@ -29,5 +29,21 @@
                 }
             }
         ]
+    },
+    {
+        "courseName": "Machine Learning and Artificical Intelligence",
+        "courseOER": "https://link_to_your_oer_resource.com",
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/",
+        "lessons": [
+            {
+                "id": "ml&ai",
+                "name": "1.0 Fundamentals of ML & AI",
+                "topics": "Fundamentals",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "fundamental_concepts": 0.85
+                }
+            }
+        ]
     }
 ]

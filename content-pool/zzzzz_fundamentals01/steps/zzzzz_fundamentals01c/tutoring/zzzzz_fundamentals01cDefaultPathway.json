@@ -1,0 +1,36 @@
+[
+    {
+        "id": "zzzzz_fundamentals01c-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Complexity",
+        "text": "Overfit models look too complex.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_fundamentals01c-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_fundamentals01c-h1"
+        ],
+        "title": "Training points",
+        "text": "They try to hit every training point, even the weird ones.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_fundamentals01c-h3",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_fundamentals01c-h1", "zzzzz_fundamentals01c-h2"
+        ],
+        "title": "Generalization vs Accuracy",
+        "text": "Generalization is poor, but training accuracy is perfect.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]
