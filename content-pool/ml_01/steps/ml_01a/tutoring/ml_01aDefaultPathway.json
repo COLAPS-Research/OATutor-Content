@@ -3,22 +3,32 @@
         "id": "ml_01a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Which model is likely to perform best on new data?",
-        "text": "We want a model that finds a balance. It shouldn't just memorize (overfit) nor should it ignore the data (underfit)",
+        "title": "Performance Beyond Training Data",
+        "text": "Ability to make correct predictions on new, previously unseen data",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+        
+    },
+    {
+        "id": "ml_01a-h2",
+        "type": "hint",
+        "dependencies": ["ml_01a-h1"],
+        "title": "Aim of ML models",
+        "text": "The goal is to learn the underlying trend or pattern so it can be applied to data it hasn't seen before. Which option describes this best?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
-        "id": "ml_01a-h2",
+        "id": "ml_01a-h3",
         "type": "hint",
-        "dependencies": [
-            "ml_01a-h1"
-        ],
-        "title": "Which model is likely to perform best on new data?",
-        "text": "The goal is to learn the underlying trend or pattern so it can be applied to data it hasn't seen before. Which option describes this best?",
+        "dependencies": ["ml_01a-h2"],
+        "title": "Avoiding Overfitting and Underfitting",
+        "text": "A model shouldn't just memorize (overfit) nor should it ignore the data (underfit)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+        
     }
 ]

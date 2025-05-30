@@ -1,9 +1,9 @@
 {
     "id": "ml_06",
     "title": "Basic of Machine Learning",
-    "body": "##figure1.gif",
+    "body": "",
     "variabilization": {},
-    "ore": "https://en.wikipedia.org/wiki/Marie_Curie <Wikipedia: Marie Curie>",
+    "ore": "https://medium.com/greyatom/what-is-underfitting-and-overfitting-in-machine-learning-and-how-to-deal-with-it-6803a989c76 <Medium: Overfitting and Underfitting>",
     "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
     "lesson": "Basic of Machine Learning",
     "courseName": "ILE Lab"

@@ -3,7 +3,7 @@
         "id": "ml_02a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "What is the correct definition of overfitting?",
+        "title": "Example of overfitting",
         "text": "Think about what happens when a student memorizes the answers for one test but doesn't understand the subject for the next test. 🤔",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -15,8 +15,18 @@
         "dependencies": [
             "ml_02a-h1"
         ],
-        "title": "Which model is likely to perform best on new data?",
-        "text": "Overfitting models learn even the 'noise' in the training data. How does this affect performance on unseen data?",
+        "title": "Training vs Testing",
+        "text": "The model performs well on training data but fails on unseen examples",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ml_02a-h3",
+        "type": "hint",
+        "dependencies": ["ml_02a-h2"],
+        "title": "Definition of overfitting",
+        "text": "memorizing instead of learning",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

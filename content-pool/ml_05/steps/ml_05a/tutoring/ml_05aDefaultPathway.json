@@ -3,7 +3,17 @@
         "id": "ml_05a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "A model that performs well on training data but poorly on test data is suffering from ____.",
+        "title": "Similar definition of the problem",
+        "text": "Overstudying is the main cause. It's also often referred to as 'High Variance'",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ml_05a-h2",
+        "type": "hint",
+        "dependencies": ["ml_05a-h1"],
+        "title": "Importance of Training vs. test performance",
         "text": "This is the classic case where a model memorized the training data but can't generalize. What do we call this? 🧠",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -12,11 +22,9 @@
     {
         "id": "ml_05a-h2",
         "type": "hint",
-        "dependencies": [
-            "ml_05a-h1"
-        ],
-        "title": "A model that performs well on training data but poorly on test data is suffering from ____.",
-        "text": "When a model fails to generalize from training to test data, what is it called?",
+        "dependencies": ["ml_05a-h3"],
+        "title": "What is the problem in this case?",
+        "text": "When a model fails to generalize from training to test data.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

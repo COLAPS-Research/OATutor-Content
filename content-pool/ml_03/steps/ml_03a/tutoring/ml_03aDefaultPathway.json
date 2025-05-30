@@ -3,7 +3,7 @@
         "id": "ml_03a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "What does it mean when a model is underfitting?",
+        "title": "Model too perfect vs Model too simple",
         "text": "This is the opposite of overfitting. What happens when a model is too simple to learn the data?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -15,8 +15,18 @@
         "dependencies": [
             "ml_03a-h1"
         ],
-        "title": "What does it mean when a model is underfitting?",
+        "title": "Failure to generalize",
         "text": " If a model can't even capture the basic trends in the data it was trained on, what does that imply?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ml_03a-h3",
+        "type": "hint",
+        "dependencies": ["ml_03a-h2"],
+        "title": "A sign of underfitting",
+        "text": "Errors are consistently high across training and testing data sets.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
