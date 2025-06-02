@@ -1,0 +1,18 @@
+{
+    "id": "ml_01f",
+    "stepAnswer": [
+        "A model that learns patterns and generalizes"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Model Testing",
+    "stepBody": "Which model is likely to perform best on new data?",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "A model that memorizes training data",
+            "A model that didn’t learn much at all",
+            "A model that learns patterns and generalizes",
+            "A model that guesses randomly"
+        ],
+    "answerLatex": "A model that learns patterns and generalizes"
+}

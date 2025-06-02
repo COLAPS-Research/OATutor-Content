@@ -1,18 +1,18 @@
 {
     "id": "ml_01a",
     "stepAnswer": [
-        "A model that learns patterns and generalizes"
+        "A model that memorizes the training data and performs poorly on new data"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Which model is likely to perform best on new data?",
-    "stepBody": "Which model is likely to perform best on new data?",
+    "stepTitle": "What is the correct definition of overfitting?",
+    "stepBody": "What is the correct definition of overfitting?",
     "answerType": "string",
     "variabilization": {},
     "choices": [
-            "A model that memorizes training data",
-            "A model that didn’t learn much at all",
-            "A model that learns patterns and generalizes",
-            "A model that guesses randomly"
+            "A model that memorizes the training data and performs poorly on new data",
+            "A model that simplifies to improve generalization",
+            "A model that performs equally well on training and test data",
+            "A model that ignores the training data and predicts randomly"
         ],
-    "answerLatex": "A model that learns patterns and generalizes"
+    "answerLatex": "A model that memorizes the training data and performs poorly on new data"
 }

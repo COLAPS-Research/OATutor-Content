@@ -17,13 +17,19 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "fact_checking_ml_knowledge": {
+    "fact_checking_ML": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
     "conceptual_differentiation": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "conceptual_integration": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
@@ -47,61 +53,49 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "model_complexity_awareness": {
+    "historical_context": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "bias_variance_intuition": {
+    "research_significance": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "graphical_analysis_ml": {
+    "basic_git_concepts": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "problem_diagnosis_ml": {
+    "basic_git_operations": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "solution_knowledge_ml": {
+    "branching_and_merging": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "definition_recall_ml": {
+    "remote_repositories": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "model_simplicity_risk": {
+    "undoing_changes": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "pattern_recognition_logic": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "comparative_model_evaluation": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "scenario_based_classification": {
+    "collaboration_and_workflows": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,

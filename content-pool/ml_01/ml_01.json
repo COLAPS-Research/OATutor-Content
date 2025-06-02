@@ -1,10 +1,17 @@
 {
     "id": "ml_01",
-    "title": "Basic of Machine Learning",
-    "body": "##figure1.gif",
-    "variabilization": {},
-    "ore": "https://developers.google.com/machine-learning/crash-course/overfitting/generalization <Goofle Developers: Generalization>",
+    "title": "Get familiar with ML & AI",
+    "body": "Answer the following questions.",
+    "variabilization": {},    
+    "ore": [
+        "https://developers.google.com/machine-learning/crash-course/overfitting/overfitting <Google Developers: Overfitting>", 
+        "https://www.ibm.com/think/topics/overfitting-vs-underfitting <IBM: Overfitting and Underfitting>",
+        "https://analystprep.com/study-notes/cfa-level-2/quantitative-method/overfitting-methods-addressing/ <Analystprep: Underfitting to Overfitting Graph>",
+        "https://medium.com/greyatom/what-is-underfitting-and-overfitting-in-machine-learning-and-how-to-deal-with-it-6803a989c76 <Medium: Overfitting and Underfitting>",
+        "https://medium.com/@koushikkushal95/what-is-overfitting-and-underfitting-and-how-to-deal-with-it-step-by-step-d6c335ed086b <Medium: Overfitting and Underfitting>",
+        "https://www.ibm.com/think/topics/overfitting <IBM: Overfitting>",
+        "https://www.ibm.com/think/topics/underfitting <IBM: Underfitting>"],
     "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
-    "lesson": "Basic of Machine Learning",
-    "courseName": "ILE Lab"
+    "lesson": "1.0: Fundamentals of ML & AI",
+    "courseName": "ML&AI"
 }

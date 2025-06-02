@@ -1,0 +1,18 @@
+{
+    "id": "ml_01b",
+    "stepAnswer": [
+        "It fails to learn from the training data at all"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What does it mean when a model is underfitting?",
+    "stepBody": "What does it mean when a model is underfitting?",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "It performs well on both training and test data",
+            "It fails to learn from the training data at all",
+            "It memorizes the data perfectly",
+            "It uses too much training data"
+        ],
+    "answerLatex": "It fails to learn from the training data at all"
+}
