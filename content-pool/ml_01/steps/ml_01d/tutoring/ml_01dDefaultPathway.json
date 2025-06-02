@@ -8,5 +8,25 @@
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }, 
+    {
+        "id": "ml_01d-h2",
+        "type": "hint",
+        "dependencies": ["ml_01d-h1"],
+        "title": "What to remember:",
+        "text": "Great on training data and bad on test data means it's memorizing, not learning.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }, 
+    {
+        "id": "ml_01d-h3",
+        "type": "hint",
+        "dependencies": ["ml_01d-h2"],
+        "title": "What is the problem in this case?",
+        "text": "When a model fails to generalize from training to test data.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

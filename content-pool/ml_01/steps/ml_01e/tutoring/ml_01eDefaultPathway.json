@@ -12,11 +12,19 @@
     {
         "id": "ml_01e-h2",
         "type": "hint",
-        "dependencies": [
-            "ml_01e-h1"
-        ],
-        "title": "Which models underlearn?",
-        "text": "Underfitting = underlearning",
+        "dependencies": ["ml_01e-h1"],
+        "title": "What is the problem in this case?",
+        "text": "This model didn't learn enough. It's the opposite problem of memorizing too much.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ml_01e-h3",
+        "type": "hint",
+        "dependencies": ["ml_01e-h2"],
+        "title": "Main issue",
+        "text": "Oversimplification is the main cause. It's also often referred to as 'High Bias'",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

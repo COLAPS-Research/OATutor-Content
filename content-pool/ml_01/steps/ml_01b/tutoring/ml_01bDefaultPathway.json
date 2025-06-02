@@ -3,8 +3,8 @@
         "id": "ml_01b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "What happens when a model is too simple?",
-        "text": "Underfitting = model is too simple to learn the patterns",
+        "title": "Model too perfect vs Model too simple",
+        "text": "This is the opposite of overfitting. What happens when a model is too simple to learn the data?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -12,11 +12,19 @@
     {
         "id": "ml_01b-h2",
         "type": "hint",
-        "dependencies": [
-            "ml_01b-h1"
-        ],
-        "title": "Poor performance",
-        "text": "It doesn’t even do well on training data!",
+        "dependencies": ["ml_01b-h1"],
+        "title": "What happens when a model is too simple?",
+        "text": "Model is too simple to learn the patterns",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ml_01b-h2",
+        "type": "hint",
+        "dependencies": ["ml_01b-h2"],
+        "title": "A sign of underfitting",
+        "text": "Errors are consistently high across training and testing data sets.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

@@ -3,8 +3,8 @@
         "id": "ml_01c-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Complexity",
-        "text": "Overfit models look too complex.",
+        "title": "Generalization vs Accuracy",
+        "text": "Generalization is poor, but training accuracy is perfect.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -12,11 +12,9 @@
     {
         "id": "ml_01c-h2",
         "type": "hint",
-        "dependencies": [
-            "ml_01c-h1"
-        ],
-        "title": "Training points",
-        "text": "They try to hit every training point, even the weird ones.",
+        "dependencies": ["ml_01c-h1"],
+        "title": "Important Differences between the graphs",
+        "text": "An overfitted model follows the training data very closely but would likely miss new points that fall along the general trend.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -24,11 +22,9 @@
     {
         "id": "ml_01c-h3",
         "type": "hint",
-        "dependencies": [
-            "ml_01c-h1", "ml_01c-h2"
-        ],
-        "title": "Generalization vs Accuracy",
-        "text": "Generalization is poor, but training accuracy is perfect.",
+        "dependencies": ["ml_01c-h2"],
+        "title": "Pay attention to:",
+        "text": "Look for the graph where the line tries to pass through almost every single blue dot, even if it means making sharp, 'wiggly' turns. 🐍",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

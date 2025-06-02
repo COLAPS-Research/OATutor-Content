@@ -1,5 +1,53 @@
 {
-    "fundamental_concepts": {
+    "ml_fundamentals": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "overfitting_knowledge": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "underfitting_knowledge": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "fact_checking_ML": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "conceptual_differentiation": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "conceptual_integration": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "data_interpretation": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "analytical_reasoning": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "generalization_understanding": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,

@@ -11,7 +11,15 @@
                 "topics": "Fundamentals",
                 "allowRecycle": true,
                 "learningObjectives": {
-                    "fundamental_concepts": 0.85
+                    "ml_fundamentals": 0.85,
+                    "overfitting_knowledge": 0.85,
+                    "underfitting_knowledge": 0.85,
+                    "conceptual_differentiation": 0.85,
+                    "conceptual_integration": 0.85,
+                    "data_interpretation": 0.85,
+                    "analytical_reasoning": 0.85,
+                    "fact_checking_ML": 0.85,
+                    "generalization_understanding": 0.85
                 }
             }
         ]

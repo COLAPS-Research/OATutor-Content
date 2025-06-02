@@ -34,21 +34,42 @@
         "basic_git_operations"
     ],
     "ml_01a": [
-        "fundamental_concepts"
+        "ml_fundamentals",
+        "overfitting_knowledge",
+        "fact_checking_ML",
+        "conceptual_differentiation"
     ],
     "ml_01b": [
-        "fundamental_concepts"
+        "ml_fundamentals",
+        "underfitting_knowledge",
+        "fact_checking_ML",
+        "conceptual_differentiation"
     ],
     "ml_01c": [
-        "fundamental_concepts"
+        "ml_fundamentals",
+        "overfitting_knowledge",
+        "conceptual_differentiation",
+        "data_interpretation",
+        "analytical_reasoning"
     ],
     "ml_01d": [
-        "fundamental_concepts"
+        "ml_fundamentals",
+        "overfitting_knowledge",
+        "fact_checking_ML",
+        "conceptual_differentiation",
+        "conceptual_integration"
     ],
     "ml_01e": [
-        "fundamental_concepts"
+        "ml_fundamentals",
+        "underfitting_knowledge",
+        "fact_checking_ML",
+        "conceptual_differentiation",
+        "conceptual_integration"
     ],
     "ml_01f": [
-        "fundamental_concepts"
+        "ml_fundamentals",
+        "fact_checking_ML",
+        "conceptual_integration",
+        "generalization_understanding"
     ]
 }
