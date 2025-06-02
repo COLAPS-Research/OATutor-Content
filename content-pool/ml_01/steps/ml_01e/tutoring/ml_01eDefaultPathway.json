@@ -1,0 +1,24 @@
+[
+    {
+        "id": "ml_01e-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Pattern capture",
+        "text": "A simple model can’t capture complex patterns.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ml_01e-h2",
+        "type": "hint",
+        "dependencies": [
+            "ml_01e-h1"
+        ],
+        "title": "Which models underlearn?",
+        "text": "Underfitting = underlearning",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

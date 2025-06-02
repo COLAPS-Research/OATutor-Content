@@ -1,0 +1,36 @@
+[
+    {
+        "id": "ml_01f-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "What does it mean to understand data",
+        "text": "Memorizing isn’t the same as understanding.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ml_01f-h2",
+        "type": "hint",
+        "dependencies": [
+            "ml_01f-h1"
+        ],
+        "title": "Generalization",
+        "text": "Generalization is key to good ML performance.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "ml_01f-h3",
+        "type": "hint",
+        "dependencies": [
+            "ml_01f-h1", "ml_01f-h2"
+        ],
+        "title": "Which student is better?",
+        "text": "Think like a student who understands, not just remembers.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

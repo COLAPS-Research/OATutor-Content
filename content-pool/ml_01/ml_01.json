@@ -1,0 +1,10 @@
+{
+    "id": "ml_01",
+    "title": "Get familiar with ML & AI",
+    "body": "Answer the following questions.",
+    "variabilization": {},    
+    "ore": "https://developers.google.com/machine-learning/crash-course/overfitting/overfitting <Google Developers: Overfitting>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+    "lesson": "1.0: Fundamentals of ML & AI",
+    "courseName": "ML&AI"
+}
