@@ -1,0 +1,18 @@
+{
+    "id": "latex009a",
+    "stepAnswer": [
+        "$ ... $"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "How do you start and close a math enviroment?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "$ ... $",
+        "@ ... @ ",
+        "\\begin{math} ...  \\end\\{math}",
+        "% ... %"
+    ],
+    "answerLatex": "$ ... $"
+}

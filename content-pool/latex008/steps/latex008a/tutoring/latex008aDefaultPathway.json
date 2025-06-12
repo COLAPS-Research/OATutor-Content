@@ -1,0 +1,43 @@
+[
+    {
+        "id": "latex008a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Tex files pt1",
+        "text": "It’s not Microsoft’s world here",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex008a-h2",
+        "type": "hint",
+        "dependencies": ["latex008a-h1"],
+        "title": "Tex files pt2",
+        "text": "HTML belongs to browsers",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex008a-h3",
+        "type": "hint",
+        "dependencies": ["latex008a-h2"],
+        "title": "Tex files pt3",
+        "text": "PDF is what comes after compiling",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex008a-h4",
+        "type": "hint",
+        "dependencies": ["latex008a-h3"],
+        "title": "Tex filespt4",
+        "text": "Think T-E-X as in TeX",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+  
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "id": "latex007a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Section pt1",
+        "text": "It’s all about structure, not security",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex007a-h2",
+        "type": "hint",
+        "dependencies": ["latex007a-h1"],
+        "title": "Section pt2",
+        "text": "No Wi-Fi is involved",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex007a-h3",
+        "type": "hint",
+        "dependencies": ["latex007a-h2"],
+        "title": "Section pt3",
+        "text": "Zoom who?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex007a-h4",
+        "type": "hint",
+        "dependencies": ["latex07a-h3"],
+        "title": "Section pt4",
+        "text": "Sections divide your ideas",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+  
+]

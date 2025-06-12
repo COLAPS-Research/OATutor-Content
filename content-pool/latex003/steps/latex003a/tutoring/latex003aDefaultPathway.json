@@ -48,15 +48,5 @@
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex003a-h6",
-        "type": "hint",
-        "dependencies": ["latex003a-h5"],
-        "title": "Equation Writing pt6",
-        "text": "Here is the answer $\\Sigma_{i=1}^n x_i + 2$",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

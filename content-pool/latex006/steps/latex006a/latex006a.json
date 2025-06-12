@@ -1,0 +1,18 @@
+{
+    "id": "latex006a",
+    "stepAnswer": [
+        "%"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which symbol is used for comments in LaTeX?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "//",
+        "<!-- -->",
+        "#",
+        "%"
+    ],
+    "answerLatex": "%"
+}

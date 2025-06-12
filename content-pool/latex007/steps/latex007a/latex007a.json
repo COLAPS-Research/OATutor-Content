@@ -1,0 +1,18 @@
+{
+    "id": "latex007a",
+    "stepAnswer": [
+        "Creates a new titled section in your document"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What does \\section{} do in LaTeX?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "Creates a new titled section in your document",
+        "Installs a firewall",
+        "Sends an email",
+        "Starts a Zoom meeting"
+    ],
+    "answerLatex": "Creates a new titled section in your document"
+}

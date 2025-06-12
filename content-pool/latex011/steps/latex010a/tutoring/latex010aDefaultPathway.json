@@ -1,0 +1,43 @@
+[
+    {
+        "id": "latex010a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Math Mode Use pt1",
+        "text": "LaTeX is a markup language",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex010a-h2",
+        "type": "hint",
+        "dependencies": ["latex010a-h1"],
+        "title": "Math Mode Use pt2",
+        "text": "LaTeX cannot solve mathematical problems",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex010a-h3",
+        "type": "hint",
+        "dependencies": ["latex010a-h2"],
+        "title": "Math Mode Use pt3",
+        "text": " you would use \\textit{} to generate cursive text",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex010a-h4",
+        "type": "hint",
+        "dependencies": ["latex010a-h3"],
+        "title": "Math Mode Use pt4",
+        "text": "It's typesetting mathematical expressions, e.g. an equation, a set and many more",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+  
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "id": "latex006a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Comments pt1",
+        "text": "It’s not HTML",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex006a-h2",
+        "type": "hint",
+        "dependencies": ["latex006a-h1"],
+        "title": "Comments pt2",
+        "text": "There is only one correct answer",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex006a-h3",
+        "type": "hint",
+        "dependencies": ["latex006a-h2"],
+        "title": "Comments pt3",
+        "text": "It’s not Python either",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex006a-h4",
+        "type": "hint",
+        "dependencies": ["latex006a-h3"],
+        "title": "Comments pt4",
+        "text": "Think: “%This is a comment",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+  
+]

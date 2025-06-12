@@ -1,0 +1,43 @@
+[
+    {
+        "id": "latex009a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Math Mode pt1",
+        "text": "% is used for comments, that don't get seen in the compiled document ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex009a-h2",
+        "type": "hint",
+        "dependencies": ["latex009a-h1"],
+        "title": "Math Mode pt2",
+        "text": "math Environment is an essential feature of LaTeX and doesn't use the begin end Syntax",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex009a-h3",
+        "type": "hint",
+        "dependencies": ["latex009a-h2"],
+        "title": "Math Mode pt3",
+        "text": " @ is just a regular letter in LaTeX",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex009a-h4",
+        "type": "hint",
+        "dependencies": ["latex009a-h3"],
+        "title": "Math Mode pt4",
+        "text": "It's $...$",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+  
+]
