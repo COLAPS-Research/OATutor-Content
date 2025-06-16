@@ -1,10 +1,10 @@
 [
     {
-        "id": "zzzzz_git002a-h1",
+        "id": "zzzzz_sql001b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Hint 1",
-        "text": "The answer is 'git init'",
+        "title": "How would you get relevant data from a table?",
+        "text": "Use the SELECT keyword followed by column names and the table name.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

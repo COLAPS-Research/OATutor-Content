@@ -1,0 +1,12 @@
+[
+    {
+        "id": "zzzzz_sql001a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "How would you get relevant data from a table?",
+        "text": "Use the SELECT keyword followed by column names and the table name.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

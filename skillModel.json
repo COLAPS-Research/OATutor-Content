@@ -1,36 +1,8 @@
 {
-    "zzzzhistory01a": [
-        "historical_context",
-        "research_significance"
+    "zzzzz_sql001a": [
+        "basic_sql_concepts"
     ],
-    "zzzzhistory02a": [
-        "historical_context",
-        "research_significance"
-    ],
-    "zzzzhistory03a": [
-        "historical_context",
-        "research_significance"
-    ],
-    "zzzzz_git001a": [
-        "basic_git_concepts"
-    ],
-    "zzzzz_git001b": [
-        "basic_git_concepts"
-    ],
-    "zzzzz_git001c": [
-        "basic_git_concepts",
-        "basic_git_operations"
-    ],
-    "zzzzz_git002a": [
-        "basic_git_operations"
-    ],
-    "zzzzz_git002b": [
-        "basic_git_operations"
-    ],
-    "zzzzz_git002c": [
-        "basic_git_operations"
-    ],
-    "zzzzz_git002d": [
-        "basic_git_operations"
+    "zzzzz_sql001b": [
+        "basic_sql_concepts"
     ]
 }
