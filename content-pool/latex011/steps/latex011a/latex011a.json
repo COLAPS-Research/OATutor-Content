@@ -1,0 +1,19 @@
+
+{
+    "id": "latex011a",
+    "stepAnswer": [
+        "\\usepackage{}"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "How do you add a package in LaTeX?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "\\usepackage{}",
+        "\\addlibrary{}",
+        "\\insertpackage{}",
+        "\\loadpackage{}"
+    ],
+    "answerLatex": "\\usepackage{}"
+}

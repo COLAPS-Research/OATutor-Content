@@ -1,0 +1,18 @@
+{
+    "id": "latex020a",
+    "stepAnswer": [
+        "\\begin{center}...\\end{center}"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which command is used to center text in LaTeX?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "\\begin{center}...\\end{center}",
+        "\\centerline{}",
+        "\\textcenter{}",
+        "\\aligncenter{}"
+    ],
+    "answerLatex": "\\begin{center}...\\end{center}"
+}

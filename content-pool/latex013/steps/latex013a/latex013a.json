@@ -1,0 +1,18 @@
+{
+    "id": "latex013a",
+    "stepAnswer": [
+        "The document will not compile correctly"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What happens if you forget \\end{document} in LaTeX?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "The document will not compile correctly",
+        "The document will auto-fix itself",
+        "A page with random garbage appears",
+        "Nothing special happens"
+    ],
+    "answerLatex": "The document will not compile correctly"
+}

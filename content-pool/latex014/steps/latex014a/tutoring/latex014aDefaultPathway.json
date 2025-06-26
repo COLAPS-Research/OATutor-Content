@@ -1,0 +1,42 @@
+[
+    {
+        "id": "latex014a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Command Symbol pt1",
+        "text": "Comments in LaTeX start with %, not commands.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex014a-h2",
+        "type": "hint",
+        "dependencies": ["latex014a-h1"],
+        "title": "Command Symbol pt2",
+        "text": "/ is not used to start commands in LaTeX.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex014a-h3",
+        "type": "hint",
+        "dependencies": ["latex014a-h2"],
+        "title": "Command Symbol pt3",
+        "text": "$ is related to math mode, not general commands.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex014a-h4",
+        "type": "hint",
+        "dependencies": ["latex014a-h3"],
+        "title": "Command Symbol pt4",
+        "text": "Every LaTeX command starts with a backslash .",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

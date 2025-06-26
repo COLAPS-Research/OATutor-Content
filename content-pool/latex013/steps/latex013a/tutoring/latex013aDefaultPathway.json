@@ -1,43 +1,42 @@
 [
     {
-        "id": "latex010a-h1",
+        "id": "latex013a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Math Mode Use pt1",
-        "text": "LaTeX is a markup language",
+        "title": "Document End pt1",
+        "text": "LaTeX requires a clear end to the document.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
-        "id": "latex010a-h2",
+        "id": "latex013a-h2",
         "type": "hint",
-        "dependencies": ["latex010a-h1"],
-        "title": "Math Mode Use pt2",
-        "text": "LaTeX cannot solve mathematical problems",
+        "dependencies": ["latex013a-h1"],
+        "title": "Document End pt2",
+        "text": "Auto-correction is not a feature of LaTeX compilers.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
-        "id": "latex010a-h3",
+        "id": "latex013a-h3",
         "type": "hint",
-        "dependencies": ["latex010a-h2"],
-        "title": "Math Mode Use pt3",
-        "text": " you would use \\textit{} to generate cursive text",
+        "dependencies": ["latex013a-h2"],
+        "title": "Document End pt3",
+        "text": "Garbage output may happen, but it's not proper compilation.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
-        "id": "latex010a-h4",
+        "id": "latex013a-h4",
         "type": "hint",
-        "dependencies": ["latex010a-h3"],
-        "title": "Math Mode Use pt4",
-        "text": "It's typesetting mathematical expressions, e.g. an equation, a set and many more",
+        "dependencies": ["latex013a-h3"],
+        "title": "Document End pt4",
+        "text": "Forgetting \\end{document} will cause compilation failure.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
-  
 ]

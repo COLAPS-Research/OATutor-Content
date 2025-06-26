@@ -1,0 +1,42 @@
+[
+    {
+        "id": "latex020a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Centering pt1",
+        "text": "\\centerline{} exists but doesn’t center blocks properly.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex020a-h2",
+        "type": "hint",
+        "dependencies": ["latex020a-h1"],
+        "title": "Centering pt2",
+        "text": "\\textcenter and \\aligncenter are not LaTeX commands.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex020a-h3",
+        "type": "hint",
+        "dependencies": ["latex020a-h2"],
+        "title": "Centering pt3",
+        "text": "Proper centering requires an environment, not a single command.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex020a-h4",
+        "type": "hint",
+        "dependencies": ["latex020a-h3"],
+        "title": "Centering pt4",
+        "text": "The correct way to center is using \\begin{center}...\\end{center}.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

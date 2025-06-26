@@ -1,0 +1,42 @@
+[
+    {
+        "id": "latex019a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Bold Text pt1",
+        "text": "\\bold and \\b are not valid LaTeX text formatting commands.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex019a-h2",
+        "type": "hint",
+        "dependencies": ["latex019a-h1"],
+        "title": "Bold Text pt2",
+        "text": "\\strong is an HTML tag, not LaTeX.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex019a-h3",
+        "type": "hint",
+        "dependencies": ["latex019a-h2"],
+        "title": "Bold Text pt3",
+        "text": "Bold formatting in LaTeX starts with \\text, followed by a style.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex019a-h4",
+        "type": "hint",
+        "dependencies": ["latex019a-h3"],
+        "title": "Bold Text pt4",
+        "text": "The correct command to bold text is \\textbf{}.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

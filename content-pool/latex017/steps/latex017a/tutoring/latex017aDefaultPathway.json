@@ -1,0 +1,42 @@
+[
+    {
+        "id": "latex017a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Title Output pt1",
+        "text": "Defining \\title{} is not enough; you must execute a command to display it.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex017a-h2",
+        "type": "hint",
+        "dependencies": ["latex017a-h1"],
+        "title": "Title Output pt2",
+        "text": "\\printtitle and \\runtitle are not LaTeX commands.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex017a-h3",
+        "type": "hint",
+        "dependencies": ["latex017a-h2"],
+        "title": "Title Output pt3",
+        "text": "\\showtitle is not recognized in LaTeX.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex017a-h4",
+        "type": "hint",
+        "dependencies": ["latex017a-h3"],
+        "title": "Title Output pt4",
+        "text": "The correct command is \\maketitle.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

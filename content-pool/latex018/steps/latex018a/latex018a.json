@@ -1,0 +1,18 @@
+{
+    "id": "latex018a",
+    "stepAnswer": [
+        "Leave a blank line"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What command starts a new paragraph in LaTeX?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "Leave a blank line",
+        "\\newline",
+        "\\newparagraph{}",
+        "Add two spaces"
+    ],
+    "answerLatex": "Leave a blank line"
+}

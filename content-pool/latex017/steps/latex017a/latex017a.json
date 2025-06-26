@@ -1,0 +1,18 @@
+{
+    "id": "latex017a",
+    "stepAnswer": [
+        "\\maketitle"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "How do you display the title after defining it in LaTeX?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "\\maketitle",
+        "\\printtitle",
+        "\\runtitle",
+        "\\showtitle"
+    ],
+    "answerLatex": "\\maketitle"
+}

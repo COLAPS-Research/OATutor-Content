@@ -1,0 +1,42 @@
+[
+    {
+        "id": "latex015a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Enumerate pt1",
+        "text": "\\begin{itemize} is for bullet points, not numbers.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex015a-h2",
+        "type": "hint",
+        "dependencies": ["latex015a-h1"],
+        "title": "Enumerate pt2",
+        "text": "\\start{numbering} is not a LaTeX command.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex015a-h3",
+        "type": "hint",
+        "dependencies": ["latex015a-h2"],
+        "title": "Enumerate pt3",
+        "text": "\\begin{numbers} might sound logical, but it’s not valid LaTeX.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex015a-h4",
+        "type": "hint",
+        "dependencies": ["latex015a-h3"],
+        "title": "Enumerate pt4",
+        "text": "The correct environment for numbered lists is \\begin{enumerate}.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]
