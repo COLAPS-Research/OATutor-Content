@@ -1,9 +1,9 @@
 [
     {
-        "id": "zzzzz_sql001b-h1",
+        "id": "zzzzz_sql001c-h1",
         "type": "hint",
         "dependencies": [],
-        "text": "Use a WHERE clause to specify the grade condition.",
+        "text": "You need to join the students, enrollments, and courses tables.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
