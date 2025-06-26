@@ -1,0 +1,10 @@
+{
+    "id": "zzzzz_sql001",
+    "title": "Basic concepts in Sql",
+    "body": "Answer the following questions.",
+    "variabilization": {},    
+    "ore": "https://www.sqltutorial.org",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+    "lesson": "1.2: Introduction to Sql",
+    "courseName": "ILE Lab"
+}

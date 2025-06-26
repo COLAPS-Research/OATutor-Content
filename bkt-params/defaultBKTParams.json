@@ -11,13 +11,13 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "basic_git_concepts": {
+    "basic_sql_concepts": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "basic_git_operations": {
+    "basic_sql_operations": {
         "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,

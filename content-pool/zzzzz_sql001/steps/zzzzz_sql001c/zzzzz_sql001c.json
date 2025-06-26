@@ -1,0 +1,16 @@
+{
+
+  "id": "zzzzz_sql001c",
+  "stepTitle": "Simple JOIN Across Two Tables",
+  "stepBody": "The following SQL query correctly retrieves each student’s name along with the title of the course they are enrolled in:\n\nSELECT students.name, courses.title FROM students JOIN enrollments ON students.id = enrollments.student_id JOIN courses ON enrollments.course_id = courses.id;",
+  "problemType": "MultipleChoice",
+  "answerType": "string",
+  "stepAnswer": [
+    "True"
+  ],
+  "choices": [
+    "True",
+    "False"
+  ],
+  "answerLatex": "True"
+}

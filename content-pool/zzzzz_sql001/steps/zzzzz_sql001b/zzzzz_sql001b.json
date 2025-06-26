@@ -1,0 +1,16 @@
+{
+
+  "id": "zzzzz_sql001b",
+  "stepTitle": "Filtering with WHERE Clause",
+  "stepBody": "Retrieve the names of students who have received grade 'A'.",
+  "problemType": "MultipleChoice",
+  "answerType": "string",
+  "stepAnswer": ["SELECT name FROM students WHERE grade = 'A';"],
+  "choices": [
+    "SELECT name FROM students WHERE grade = 'A';",
+    "SELECT * FROM students WHERE grade = A;",
+    "SELECT students WHERE grade = 'A';",
+    "SELECT grade FROM students WHERE name = 'A';"
+  ],
+  "answerLatex": "SELECT name FROM students WHERE grade = 'A';"
+}
