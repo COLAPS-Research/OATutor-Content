@@ -1,0 +1,33 @@
+[
+    {
+        "id": "latex024-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Hint pt1",
+        "text": "All three: underline, italics, and bold are needed",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex024-h2",
+        "type": "hint",
+        "dependencies": ["latex024-h1"],
+        "title": "Hint pt2",
+        "text": "Underline should be the outermost command",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    
+    {
+        "id": "latex024-h4",
+        "type": "hint",
+        "dependencies": ["latex024-h3"],
+        "title": "Hint pt4",
+        "text": "Bold, then italic, then underline",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

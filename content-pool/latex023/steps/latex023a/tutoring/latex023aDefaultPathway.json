@@ -1,0 +1,42 @@
+[
+    {
+        "id": "latex023-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Combo 3 pt1",
+        "text": "It’s about lists and style",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex023-h2",
+        "type": "hint",
+        "dependencies": ["latex023-h1"],
+        "title": "Combo 3 pt2",
+        "text": "Underline, not highlight",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex023-h3",
+        "type": "hint",
+        "dependencies": ["latex023-h2"],
+        "title": "Combo 3 pt3",
+        "text": "No bold or italics here",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex023-h4",
+        "type": "hint",
+        "dependencies": ["latex023-h3"],
+        "title": "Combo 3 pt4",
+        "text": "Underlined item in a list",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

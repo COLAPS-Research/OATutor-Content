@@ -1,0 +1,42 @@
+[
+    {
+        "id": "latex022-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Hint pt1",
+        "text": "Use both a section and italics",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex022-h2",
+        "type": "hint",
+        "dependencies": ["latex022-h1"],
+        "title": "Hint pt2",
+        "text": "Order matters: section then italics inside",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex022-h3",
+        "type": "hint",
+        "dependencies": ["latex022-h2"],
+        "title": "Hint pt3",
+        "text": "Just italics or just section isn't enough",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex022-h4",
+        "type": "hint",
+        "dependencies": ["latex022-h3"],
+        "title": "Hint pt4",
+        "text": "Italics appears within the section command",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

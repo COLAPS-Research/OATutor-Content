@@ -1,0 +1,18 @@
+{
+    "id": "latex021a",
+    "stepAnswer": [
+        "\\textit{\\textbf{Warning}}"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which LaTeX command makes the word 'Warning' both bold and italic?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "\\textit{\\textbf{Warning}}",
+        "\\section{Warning}",
+        "\\underline{Warning}",
+        "\\emph{Warning}"
+    ],
+    "answerLatex": "\\textit{\\textbf{Warning}}"
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "latex021h-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Hint pt1",
+        "text": "Combine both bold and italic commands",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex021h-h2",
+        "type": "hint",
+        "dependencies": ["latex021h-h1"],
+        "title": "Hint pt2",
+        "text": "Section is just a heading, not a style",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex021h-h3",
+        "type": "hint",
+        "dependencies": ["latex021h-h2"],
+        "title": "Hint pt3",
+        "text": "Underline is not the same as bold and italic",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex021h-h4",
+        "type": "hint",
+        "dependencies": ["latex021h-h3"],
+        "title": "Hint pt4",
+        "text": "Italics + bold = strong emphasis",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "latex025-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Hint pt1",
+        "text": "You need color, underline, italics and bold—all together",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex025-h2",
+        "type": "hint",
+        "dependencies": ["latex025-h1"],
+        "title": "Hint pt2",
+        "text": "Color should be the outermost command",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex025-h3",
+        "type": "hint",
+        "dependencies": ["latex025-h2"],
+        "title": "Hint pt3",
+        "text": "Inside color, underline, then italics, then bold",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex025-h4",
+        "type": "hint",
+        "dependencies": ["latex025-h3"],
+        "title": "Hint pt4",
+        "text": "Every style must be visible in the result",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]
