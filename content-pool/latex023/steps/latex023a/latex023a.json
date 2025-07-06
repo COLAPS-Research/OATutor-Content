@@ -1,0 +1,18 @@
+{
+    "id": "latex023",
+    "stepAnswer": [
+        "Creates a list item with underlined text"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What does \\item \\underline{Main Point} do in LaTeX?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "Creates a list item with underlined text",
+        "Highlights the text in yellow",
+        "Starts a new document",
+        "Makes the text bold and italic"
+    ],
+    "answerLatex": "Creates a list item with underlined text"
+}

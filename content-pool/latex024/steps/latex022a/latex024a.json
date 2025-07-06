@@ -1,0 +1,18 @@
+{
+    "id": "latex024",
+    "stepAnswer": [
+        "\\underline{\\textit{\\textbf{Important}}}"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which LaTeX command makes the word 'Important' bold, italic, and underlined?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "\\underline{\\textit{\\textbf{Important}}}",
+        "\\textbf{\\underline{Important}}",
+        "\\textit{\\underline{Important}}",
+        "\\textbf{\\textit{Important}}"
+    ],
+    "answerLatex": "\\underline{\\textit{\\textbf{Important}}}"
+}
