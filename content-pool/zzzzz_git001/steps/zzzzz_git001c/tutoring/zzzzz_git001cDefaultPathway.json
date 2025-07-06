@@ -1,13 +1,10 @@
 [
     {
         "id": "zzzzz_git001c-h1",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "string",
-        "hintAnswer": ["git branch new_feature"],
+        "type": "hint",
         "dependencies": [],
-        "title": "New branch creation",
-        "text": "Think of a branch as a separate workspace in your project. It allows you to make changes without affecting the main code. How to create a new branch using the command (use 'new_feature' as the name of the new branch):",
+        "title": "Understand the Rules",
+        "text": "Each row, column, and 3x3 grid must contain the numbers 1, 2, and 3 exactly once, with no repetitions. ",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -15,15 +12,12 @@
     },
     {
         "id": "zzzzz_git001c-h2",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "string",
-        "hintAnswer": ["git checkout new_branch"],
+        "type": "hint",
         "dependencies": [
             "zzzzz_git001c-h1"
         ],
-        "title": "New branch creation",
-        "text": "The default branch in Git is usually called 'main' or 'master'. You can use different branches to work on different features. How to switch between branches, use the command (use 'new_feature' as the name of the new branch):",
+        "title": "Start with the First Row",
+        "text": "The first row is: 1 _ 3. What number is missing to complete 1, 2, 3? ",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -31,15 +25,25 @@
     },
     {
         "id": "zzzzz_git001c-h3",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "string",
-        "hintAnswer": ["git merge new_feature"],
+        "type": "hint",
         "dependencies": [
             "zzzzz_git001c-h2"
         ],
-        "title": "New branch creation",
-        "text": "A branch helps you develop new features or fix bugs without changing the main codebase. You can later merge the branch back into the main branch. How to merge your branch into 'main' using:",
+        "title": "Complete the Third Row",
+        "text": "Think about the available numbers and the pattern.The third row is: 3 _ 2. Which number is missing to make it contain 1, 2, and 3?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+
+    },
+    {
+        "id": "zzzzz_git001c-h4",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_git001c-h3"
+        ],
+        "title": "Solve the Second Row with Logic",
+        "text": "The second row has: _ 3 _. Use column clues to figure out the correct numbers that complete the row without repeating in columns.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

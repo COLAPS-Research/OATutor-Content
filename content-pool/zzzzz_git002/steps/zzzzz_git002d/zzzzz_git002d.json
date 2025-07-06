@@ -1,12 +1,18 @@
 {
     "id": "zzzzz_git002d",
     "stepAnswer": [
-        "git commit"
+        "I"
     ],
-    "problemType": "TextBox",
-    "stepTitle": "How do you commit changes with a message?",
+    "problemType": "MultipleChoice",
+    "stepTitle": "What is the next letter in the sequence: A, D, ?, P, Y?",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "git commit"
+    "choices":[
+        "G",
+        "I",
+        "F",
+        "H"
+    ],
+    "answerLatex": "I"
 }

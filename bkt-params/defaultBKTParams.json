@@ -1,49 +1,61 @@
 {
-    "historical_context": {
+    "natural_number_sum": {
         "probMastery": 0.1,
-        "probTransit": 0.1,
+        "probTransit": 0.3,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "research_significance": {
+    "leap_year_identification": {
         "probMastery": 0.1,
-        "probTransit": 0.1,
+        "probTransit": 0.3,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "basic_git_concepts": {
+    "digit_puzzle": {
         "probMastery": 0.1,
-        "probTransit": 0.1,
+        "probTransit": 0.3,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "basic_git_operations": {
+    "quadratic_factoring": {
         "probMastery": 0.1,
-        "probTransit": 0.1,
+        "probTransit": 0.3,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "branching_and_merging": {
+    "divisibility_by_3": {
         "probMastery": 0.1,
-        "probTransit": 0.1,
+        "probTransit": 0.3,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "remote_repositories": {
+    "letter_sequence_prediction_1": {
         "probMastery": 0.1,
-        "probTransit": 0.1,
+        "probTransit": 0.3,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "undoing_changes": {
+    "letter_sequence_prediction_2": {
         "probMastery": 0.1,
-        "probTransit": 0.1,
+        "probTransit": 0.3,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
-    "collaboration_and_workflows": {
+    "binary_to_decimal_4bit": {
         "probMastery": 0.1,
-        "probTransit": 0.1,
+        "probTransit": 0.3,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "arithmetic_word_problem": {
+        "probMastery": 0.1,
+        "probTransit": 0.3,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "mini_sudoku": {
+        "probMastery": 0.1,
+        "probTransit": 0.3,
         "probSlip": 0.1,
         "probGuess": 0.1
     }

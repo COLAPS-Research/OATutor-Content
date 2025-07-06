@@ -3,8 +3,8 @@
         "id": "zzzzhistory01a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Name Recognition pt1",
-        "text": "This person was the first woman to win a Nobel Prize and made significant contributions to the study of radioactivity.",
+        "title": "Use the formula",
+        "text": "To find the sum of the first n natural numbers, use the formula: Sum = (n+1)*n/2. Here, n = 100. ",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -15,8 +15,8 @@
         "dependencies": [
             "zzzzhistory01a-h1"
         ],
-        "title": "Name Recognition pt2",
-        "text": "Hint: She is known for discovering radium and polonium, and her name is closely tied to the term 'radioactivity.'",
+        "title": "Apply the Values",
+        "text": "Substitute the value of n into the formula: Sum = (100+1)*100/2 ",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -27,10 +27,12 @@
         "dependencies": [
             "zzzzhistory01a-h2"
         ],
-        "title": "Name Recognition pt3",
-        "text": "She was the first woman to win a Nobel Prize, and she won it in both Physics and Chemistry.",
+        "title": "Continue the Calculation",
+        "text": "Multiply and then divide: sum= 101*100/2  sum=10100/2 ",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
+
 ]
+

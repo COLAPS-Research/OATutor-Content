@@ -1,12 +1,18 @@
 {
     "id": "zzzzhistory02a",
     "stepAnswer": [
-        "Albert Einstein"
+        "2000"
     ],
-    "problemType": "TextBox",
-    "stepTitle": "Who is this guy who forgot to comb his hair?",
-    "stepBody": "Hint: He believed that time is relative... which explains why Mondays fell longer than Sundays. ",
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which of the following years is a leap year? ",
+    "stepBody": "",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "Albert Einstein"
+    "choices":[
+        "1900",
+        "2000",
+        "2100",
+        "2200"
+    ],
+    "answerLatex": "2000"
 }

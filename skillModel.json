@@ -1,36 +1,32 @@
 {
     "zzzzhistory01a": [
-        "historical_context",
-        "research_significance"
+        "natural_number_sum"
     ],
     "zzzzhistory02a": [
-        "historical_context",
-        "research_significance"
+        "leap_year_identification"
     ],
     "zzzzhistory03a": [
-        "historical_context",
-        "research_significance"
-    ],
-    "zzzzz_git001a": [
-        "basic_git_concepts"
-    ],
-    "zzzzz_git001b": [
-        "basic_git_concepts"
-    ],
-    "zzzzz_git001c": [
-        "basic_git_concepts",
-        "basic_git_operations"
+        "digit_puzzle"
     ],
     "zzzzz_git002a": [
-        "basic_git_operations"
+        "quadratic_factoring"
     ],
     "zzzzz_git002b": [
-        "basic_git_operations"
+        "divisibility_by_3"
     ],
     "zzzzz_git002c": [
-        "basic_git_operations"
+        "letter_sequence_prediction_1"
     ],
     "zzzzz_git002d": [
-        "basic_git_operations"
+        "letter_sequence_prediction_2"
+    ],
+    "zzzzz_git001a": [
+        "binary_to_decimal_4bit"
+    ],
+    "zzzzz_git001b": [
+        "arithmetic_word_problem"
+    ],
+    "zzzzz_git001c": [
+        "mini_sudoku"
     ]
 }

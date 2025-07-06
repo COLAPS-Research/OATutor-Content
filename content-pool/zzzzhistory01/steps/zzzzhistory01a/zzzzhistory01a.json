@@ -1,12 +1,18 @@
 {
     "id": "zzzzhistory01a",
     "stepAnswer": [
-        "Marie Curie"
+        "5050"
     ],
-    "problemType": "TextBox",
-    "stepTitle": "Who is this famous scientist known for her work on radioactivity?",
-    "stepBody": "Hint: She was born in 1867. ",
+    "problemType": "MultipleChoice",
+    "stepTitle": "What is the sum of the first 100 natural numbers? ",
+    "stepBody": "",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "Marie Curie"
+    "choices":[
+        "5050",
+        "5000",
+        "5055",
+        "5100"
+    ],
+    "answerLatex": "5050"
 }

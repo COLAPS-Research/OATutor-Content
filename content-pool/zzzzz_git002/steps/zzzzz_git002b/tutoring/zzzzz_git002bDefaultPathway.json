@@ -3,8 +3,32 @@
         "id": "zzzzz_git002b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Hint 1",
-        "text": "'git status' command will show you the different states of files in your working directory and staging area. Which files are modified and unstaged and which are staged but not yet committed. In its normal form, it also will show you some basic hints on how to move files between these stages.",
+        "title": "Divisibility Rule for 3",
+        "text": "A number is divisible by 3 if the **sum of its digits** is divisible by 3.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_git002b-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_git002b-h1"
+        ],
+        "title": "Add the Digits",
+        "text": "Try adding the digits for each number: A: 1+2+3+4+5+6+0 = 21,  B: 7+6+5+4+3+2+1 = 28,  C: 1+1+1+1+1+1+1 = 7,  D: 1+2+3+4+5+6+7 = 28",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_git002b-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_git002b-h1"
+        ],
+        "title": "Check Which Sum is Divisible by 3",
+        "text": "Only 21 is divisible by 3 → 21 ÷ 3 = 7 So, 1234560 is divisible by 3.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

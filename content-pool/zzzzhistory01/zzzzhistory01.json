@@ -1,10 +1,10 @@
 {
     "id": "zzzzhistory01",
-    "title": "History of Science",
-    "body": "##figure1.gif",
+    "title": "Divisibility Rules",
+    "body": "##figure1.webp",
     "variabilization": {},
-    "ore": "https://en.wikipedia.org/wiki/Marie_Curie <Wikipedia: Marie Curie>",
+    "ore": "https://medium.com/intuition/the-genius-of-young-gauss-finding-the-sum-of-first-100-natural-numbers-37d355d63222",
     "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
-    "lesson": "1.1 History of Science",
+    "lesson": "1.1 Divisibility Rules",
     "courseName": "ILE Lab"
 }

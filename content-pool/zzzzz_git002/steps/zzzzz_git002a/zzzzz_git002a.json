@@ -1,12 +1,18 @@
 {
     "id": "zzzzz_git002a",
     "stepAnswer": [
-        "git init"
+        "(x+2)(x+3)"
     ],
-    "problemType": "TextBox",
-    "stepTitle": "What command initializes a new Git repository?",
+    "problemType": "MultipleChoice",
+    "stepTitle": " Factor x² + 5x + 6 ",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "git init"
+    "choices": [
+        "(x+2)(x+3)",
+        "(x+1)(x+6)",
+        "(x-2)(x-3)",
+        "(x+3)(x-2)"
+    ],
+    "answerLatex": "(x+2)(x+3)"
 }

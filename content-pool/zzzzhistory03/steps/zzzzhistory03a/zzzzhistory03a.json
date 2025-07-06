@@ -1,12 +1,18 @@
 {
     "id": "zzzzhistory03a",
     "stepAnswer": [
-        "Isaac Newton"
+        "84"
     ],
-    "problemType": "TextBox",
-    "stepTitle": "Who is this wig influencer?",
-    "stepBody": "Hint: He was born in 17th-century.",
+    "problemType": "MultipleChoice",
+    "stepTitle": "Digit Riddle",
+    "stepBody": "I am a two-digit number. My tens digit is twice my units digit. The sum of my digits is 12. What number am I ? [ ___ ] ",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "Isaac Newton"
+    "choices":[
+        "93",
+        "84",
+        "63",
+        "48"
+    ],
+    "answerLatex": "84"
 }

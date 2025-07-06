@@ -1,18 +1,18 @@
 {
     "id": "zzzzz_git001a",
     "stepAnswer": [
-        "A version control system"
+        "11"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "What is Git?",
-    "stepBody": "What is Git?",
+    "stepTitle": "What is the decimal equivalent of 1011? ",
+    "stepBody": "Convert the binary number 1011 into its decimal equivalent by calculating the value of each bit.",
     "answerType": "string",
     "variabilization": {},
     "choices": [
-            "A programming language",
-            "A version control system",
-            "A nickname for GitHub",
-            "A remote repository platform"
+            "5",
+            "10",
+            "11",
+            "7"
         ],
-    "answerLatex": "A version control system"
+    "answerLatex": "11"
 }

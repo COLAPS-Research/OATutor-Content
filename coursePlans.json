@@ -6,26 +6,28 @@
         "lessons": [
             {
                 "id": "kai_history_test",
-                "name": "1.1 History of Science",
-                "topics": "Famous history figures",
-                "allowRecycle": true,
+                "name": "1.1: Divisibility Rules",
+                "topics": "Divisibility tests and leap year logic",
+                "allowRecycle": false,
                 "learningObjectives": {
-                    "historical_context": 0.85,
-                    "research_significance": 0.85
+                    "natural_number_sum": 0.85,
+                    "leap_year_identification": 0.85,
+                    "digit_puzzle": 0.85
                 }
             },
             {
                 "id": "kai_git_tutor",
-                "name": "1.2: Introduction to Git",
-                "topics": "Understanding Git",
-                "allowRecycle": true,
+                "name": "1.2: Algebra Basics",
+                "topics": "Factorization, arithmetic, binary conversion, sequence logic, puzzles",
+                "allowRecycle": false,
                 "learningObjectives": {
-                    "basic_git_concepts": 0.85,
-                    "basic_git_operations": 0.85,
-                    "branching_and_merging": 0.85,
-                    "remote_repositories": 0.85,
-                    "undoing_changes": 0.85,
-                    "collaboration_and_workflows": 0.85
+                    "quadratic_factoring": 0.85,
+                    "divisibility_by_3": 0.85,
+                    "letter_sequence_prediction_1": 0.85,
+                    "letter_sequence_prediction_2": 0.85,
+                    "binary_to_decimal_4bit": 0.85,
+                    "arithmetic_word_problem": 0.85,
+                    "mini_sudoku": 0.85
                 }
             }
         ]

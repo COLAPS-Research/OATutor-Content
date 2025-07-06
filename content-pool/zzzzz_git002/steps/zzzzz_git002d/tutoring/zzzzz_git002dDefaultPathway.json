@@ -3,8 +3,32 @@
         "id": "zzzzz_git002d-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Hint 1",
-        "text": "The 'git commit' command takes all the file contents that have been staged with 'git add' and records a new permanent snapshot in the database and then moves the branch pointer on the current branch up to it.",
+        "title": "Use Alphabet Positions",
+        "text": "Convert the letters to their number positions: A=1, D=4, P=16, Y=25. ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_git002d-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_git002d-h1"
+        ],
+        "title": "Look at the Differences",
+        "text": "Check the pattern of differences: 1 → 4 is +3,  4 → ? is +5,  ? → 16 is +7,  16 → 25 is +9.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_git002d-h3",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_git002d-h2"
+        ],
+        "title": "Fill the Missing Value",
+        "text": "Starting from 4 (D), +5 gives you 9. The 9th letter is I.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

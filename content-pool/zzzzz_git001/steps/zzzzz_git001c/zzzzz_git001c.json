@@ -1,18 +1,12 @@
 {
     "id": "zzzzz_git001c",
     "stepAnswer": [
-        "A separate version of the main repository."
+        "2211"
     ],
-    "problemType": "MultipleChoice",
-    "stepTitle": "In Git, a branch is:",
-    "stepBody": "",
+    "problemType": "TextBox",
+    "stepTitle": "Mini Sudoku Puzzle",
+    "stepBody": "Sudoku 🧩 (3*3 Grid): ✦ row1 [1_3] ✦ row2 [_3_] ✦ row3 [3_2] ---no repeats in any row / column / block ! ",
     "answerType": "string",
     "variabilization": {},
-    "choices": [
-            "Nothing, it is a nonsense word.",
-            "A separate version of the main repository.",
-            "A secret part of Git config.",
-            "A small wooden stick you can use to type commands."
-        ],
-    "answerLatex": "A separate version of the main repository."
+    "answerLatex": "2211"
 }
