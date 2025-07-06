@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Command Symbol pt1",
-        "text": "Comments in LaTeX start with %, not commands.",
+        "text": "A different symbol is used to indicate non-executable text.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -14,7 +14,7 @@
         "type": "hint",
         "dependencies": ["latex014a-h1"],
         "title": "Command Symbol pt2",
-        "text": "/ is not used to start commands in LaTeX.",
+        "text": "This symbol is common in file paths but not for LaTeX commands.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -24,7 +24,7 @@
         "type": "hint",
         "dependencies": ["latex014a-h2"],
         "title": "Command Symbol pt3",
-        "text": "$ is related to math mode, not general commands.",
+        "text": "This symbol is specifically for mathematical content.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -34,7 +34,7 @@
         "type": "hint",
         "dependencies": ["latex014a-h3"],
         "title": "Command Symbol pt4",
-        "text": "Every LaTeX command starts with a backslash .",
+        "text": "It's a distinctive character that signals the beginning of an instruction.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

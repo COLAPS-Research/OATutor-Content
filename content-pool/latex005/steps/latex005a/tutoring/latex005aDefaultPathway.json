@@ -4,17 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Invalid LaTeX pt1",
-        "text": "One may install additonal features into LaTeX. Thus unknown keywords may very well be valid. We woudn't ask such a mean question!",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex005a-h2",
-        "type": "hint",
-        "dependencies": ["latex005a-h1"],
-        "title": "Invalid LaTeX pt2",
-        "text": "There is only one correct answer",
+        "text": "One may install additonal features into LaTeX. Thus unknown keywords may very well be valid. However, we woudn't ask such a mean question!",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -22,8 +12,8 @@
     {
         "id": "latex005a-h3",
         "type": "hint",
-        "dependencies": ["latex005a-h2"],
-        "title": "Invalid LaTeX pt3",
+        "dependencies": ["latex005a-h1"],
+        "title": "Invalid LaTeX pt2",
         "text": "Recall what you know about the keywords and characters with special meanings",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -32,8 +22,8 @@
     {
         "id": "latex005a-h4",
         "type": "hint",
-        "dependencies": ["latex005a-h3"],
-        "title": "Invalid LaTeX pt4",
+        "dependencies": ["latex005a-h2"],
+        "title": "Invalid LaTeX pt3",
         "text": "If you wanted to print {} what would you have to do?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

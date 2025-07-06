@@ -35,10 +35,10 @@
     ],
 
     "latex001a": [
-        "text_editor_knowledge"
+        "latex_technicals"
     ],
     "latex002a": [
-        "document_structure"
+        "latex_technicals"
     ],
     "latex003a": [
         "formulars",
@@ -56,11 +56,10 @@
         "keywords"
     ],
      "latex007a": [
-        "keywords",
-        "document_structure"
+        "keywords"
     ],
      "latex008a": [
-        "text_editor_knowledge"
+        "latex_technicals"
     ],
      "latex009a": [
         "keywords"

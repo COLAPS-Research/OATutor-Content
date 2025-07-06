@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "LaTeX Definition pt1",
-        "text": "It is nothing like MS Word",
+        "text": "What programs do you know that deal with text?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -14,7 +14,7 @@
         "type": "hint",
         "dependencies": ["latex001a-h1"],
         "title": "LaTeX Definition pt2",
-        "text": "Your fridge does not run on LaTeX",
+        "text": "What kind of environment would you encounter LaTeX in?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -24,7 +24,7 @@
         "type": "hint",
         "dependencies": ["latex001a-h2"],
         "title": "LaTeX Definition pt3",
-        "text": "Young people would rather study latin than latex",
+        "text": "Young people would rather study latin thatn LaTeX, old people alike. Scientists however, see no equal ot it.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

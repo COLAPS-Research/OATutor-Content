@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Image Command pt1",
-        "text": "\"Insert\" is not the verb LaTeX uses for images.",
+        "text": "The command doesn't use a general verb for placement.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

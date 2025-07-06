@@ -28,15 +28,5 @@
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex011a-h4",
-        "type": "hint",
-        "dependencies": ["latex011a-h3"],
-        "title": "Package Command pt4",
-        "text": "The correct command is \\usepackage{}.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

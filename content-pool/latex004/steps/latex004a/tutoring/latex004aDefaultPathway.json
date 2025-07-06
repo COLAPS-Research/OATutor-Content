@@ -38,15 +38,5 @@
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex004a-h5",
-        "type": "hint",
-        "dependencies": ["latex004a-h4"],
-        "title": "Including Graphics pt5",
-        "text": "The solution is \\includegraphics{diagram1.pdf}",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

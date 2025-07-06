@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "LaTeX Structure pt1",
-        "text": "Head and Body, Knees and Toes are not relevant to LaTeX",
+        "text": "Are you familiar with HTML? Head, Body and Footer are the structure there. Not for LaTeX.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -14,7 +14,7 @@
         "type": "hint",
         "dependencies": ["latex002a-h1"],
         "title": "LaTeX Structure pt2",
-        "text": "Everything in Reality strifes for Entropy. The digital world is not Reality tho.",
+        "text": "Everything in reality strifes for entropy. The digital world however, is not reality.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -24,7 +24,7 @@
         "type": "hint",
         "dependencies": ["latex002a-h2"],
         "title": "LaTeX Structure pt3",
-        "text": "Files per Sentece is a bit much, isn't it?",
+        "text": "A strong body is always a good thing. However, LaTeX can do much more than create a body of text.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -34,7 +34,7 @@
         "type": "hint",
         "dependencies": ["latex002a-h3"],
         "title": "LaTeX Structure pt4",
-        "text": "Just like your Language Teachers, Preamble + Main Content is the way to go.",
+        "text": "Just as with the body, LaTeX does not need always have a table of content.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

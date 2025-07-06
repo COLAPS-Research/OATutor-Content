@@ -14,7 +14,7 @@
         "type": "hint",
         "dependencies": ["latex013a-h1"],
         "title": "Document End pt2",
-        "text": "Auto-correction is not a feature of LaTeX compilers.",
+        "text": "The system expects a specific closing instruction; it won't infer it.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -24,7 +24,7 @@
         "type": "hint",
         "dependencies": ["latex013a-h2"],
         "title": "Document End pt3",
-        "text": "Garbage output may happen, but it's not proper compilation.",
+        "text": "While errors might occur, the primary issue is an incomplete process.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -34,7 +34,7 @@
         "type": "hint",
         "dependencies": ["latex013a-h3"],
         "title": "Document End pt4",
-        "text": "Forgetting \\end{document} will cause compilation failure.",
+        "text": "An explicit end command is crucial for successful processing.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
