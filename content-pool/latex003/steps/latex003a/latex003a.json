@@ -1,12 +1,12 @@
 {
     "id": "latex003a",
     "stepAnswer": [
-        "\\Sigma_{i=1}^n x_i + 2"
+        "$\\Sigma_{i=1}^n x_i + 2$"
     ],
     "problemType": "TextBox",
     "stepTitle": "Write an equation that looks like this : $\\Sigma_{i=1}^n x_i + 2$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "\\Sigma_{i=1}^n x_i + 2"
+    "answerLatex": "$\\Sigma_{i=1}^n x_i + 2$"
 }

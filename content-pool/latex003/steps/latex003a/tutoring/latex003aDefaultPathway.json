@@ -1,7 +1,10 @@
 [
     {
         "id": "latex003a-h1",
-        "type": "hint",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "string",
+        "hintAnswer": ["Remember the mathematics mode using $ ... $"],
         "dependencies": [],
         "title": "Equation Writing pt1",
         "text": "What ways do you know to write an equation in latex? Which one would be the simplest one?",
@@ -12,9 +15,12 @@
     {
         "id": "latex003a-h2",
         "type": "hint",
+        "problemType": "TextBox",
+        "answerType": "string",
+        "hintAnswer": ["Greek Letters are very common in mathematics"],
         "dependencies": ["latex003a-h1"],
         "title": "Equation Writing pt2",
-        "text": "Mathematics relays on variables like x, y and z. What other language and its letters can be found in mathematics?",
+        "text": "Mathematics relies on variables like x, y and z. What other language and its letters can be found in mathematics?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -22,9 +28,12 @@
     {
         "id": "latex003a-h3",
         "type": "hint",
+        "problemType": "TextBox",
+        "answerType": "string",
+        "hintAnswer": ["People like things simple, therefor the keyword of capital sigma is \\Simga ."],
         "dependencies": ["latex003a-h2"],
         "title": "Equation Writing pt3",
-        "text": "If certain words serve as keywords to do something, like render a Greek letter, then you couldn't write that keyword into a text anymore, could you? Does LaTeX have a way to deal with that?",
+        "text": "Greek letters are not a given on normal keyboard layouts. So LaTeX adds them as Keywords. What Keyword would you choose for a capital sigma?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -32,9 +41,12 @@
     {
         "id": "latex003a-h4",
         "type": "hint",
+        "problemType": "TextBox",
+        "answerType": "string",
+        "hintAnswer": ["One may use _ to write things below and ^ to write things above other things in LaTex."],
         "dependencies": ["latex003a-h3"],
         "title": "Equation Writing pt4",
-        "text": "You can put thing below or above other things by using _ and ^ respectively",
+        "text": "Writing things below or above other things is unintuitive isn't it? There must be some special charakters to do it with. Arrows are not on the keyboard, but are there other things that seem like they are below/above other things?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -42,9 +54,12 @@
     {
         "id": "latex003a-h5",
         "type": "hint",
+        "problemType": "TextBox",
+        "answerType": "string",
+        "hintAnswer": ["LaTeX, same as in mathematics, groups things using {}"],
         "dependencies": ["latex003a-h4"],
         "title": "Equation Writing pt5",
-        "text": "Sometimes you want to group things together to affect them all together. How does Mathematics notate things in a group?",
+        "text": "Sometimes you want to group things together to affect them all together. What do mathematicians write when they talk about groups?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

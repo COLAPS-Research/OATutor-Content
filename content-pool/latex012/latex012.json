@@ -1,9 +1,9 @@
 {
     "id": "latex012",
-    "title": "Ex",
-    "body": "Ex",
+    "title": "Basic commands",
+    "body": "These things a must to know. Otherwise working with LaTeX will get difficulte.",
     "variabilization": {},
-    "oer": "https://en.wikipedia.org/wiki/LaTeX#Syntax <Wikipedia: LaTeX Syntax>",
+    "oer": "https://OATutor.io <OATutor>",
     "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
     "lesson": "LaTeX 101",
     "courseName": "ILE Lab"

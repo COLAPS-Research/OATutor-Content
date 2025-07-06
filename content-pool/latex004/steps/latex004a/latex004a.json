@@ -4,7 +4,7 @@
         "\\includegraphics{diagram1.pdf}"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Suppose you a diagram you want to include into your work. It is stored as diagram1.pdf in the same folder as your .tex file. Write the LaTeX expression that would show the diagram",
+    "stepTitle": "Including a diagram in your .tex file",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

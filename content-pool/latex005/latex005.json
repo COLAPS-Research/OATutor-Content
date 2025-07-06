@@ -1,9 +1,9 @@
 {
     "id": "latex005",
-    "title": "Which one of these examples is not correct LaTeX",
-    "body": "Which one of these examples is not correct LaTeX",
+    "title": "Spotting Errors",
+    "body": "As LaTeX is a bit more involved compared to things like MS Word, the erros one may make can get harder to spot.",
     "variabilization": {},
-    "oer": "https://en.wikipedia.org/wiki/LaTeX#Syntax <Wikipedia: LaTeX Syntax>",
+    "oer": "https://OATutor.io <OATutor>",
     "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
     "lesson": "LaTeX 101",
     "courseName": "ILE Lab"
