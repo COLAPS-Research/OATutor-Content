@@ -38,15 +38,5 @@
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex005a-h5",
-        "type": "hint",
-        "dependencies": ["latex005a-h4"],
-        "title": "Invalid LaTeX pt5",
-        "text": "The answer is number 3. The } is not closed properly as \\{ escapes and printes {.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

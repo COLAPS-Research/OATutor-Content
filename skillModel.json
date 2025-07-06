@@ -45,7 +45,8 @@
         "greek_letters"
     ],
     "latex004a": [
-        "packages"
+        "packages",
+        "keywords"
     ],
     "latex005a": [
         "keywords"
@@ -62,54 +63,54 @@
         "text_editor_knowledge"
     ],
      "latex009a": [
-        "formulars"
+        "keywords"
     ],
      "latex010a": [
-        "formulars"
+        "keywords"
     ],
     "latex011a": [
-        "formulars"
+        "keywords"
     ],
     "latex012a": [
-        "formulars"
+        "keywords"
     ],
      "latex013a": [
-        "formulars"
+        "keywords"
     ],
     "latex014a": [
-        "formulars"
+        "keywords"
     ],
     "latex015a": [
-        "formulars"
+        "keywords"
     ],
     "latex016a": [
-        "formulars"
+        "keywords"
     ],
     "latex017a": [
-        "formulars"
+        "keywords"
     ],
     "latex018a": [
-        "formulars"
+        "keywords"
     ],
     "latex019a": [
-        "formulars"
+        "keywords"
     ],
     "latex020a": [
-        "formulars"
+        "keywords"
     ],
     "latex021a": [
-        "formulars"
+        "keywords"
     ],
     "latex022a": [
-        "formulars"
+        "keywords"
     ],
     "latex023a": [
-        "formulars"
+        "keywords"
     ],
     "latex024a": [
-        "formulars"
+        "keywords"
     ],
     "latex025a": [
-        "formulars"
+        "keywords"
     ]
 }

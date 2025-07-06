@@ -36,8 +36,8 @@
                 "learningObjectives": {
                     "document_structure": 0.85,
                     "greek_letters": 0.85,
-                    "formulars": 0.85,
-                    "keywords": 0.85,
+                    "formulars": 1.0,
+                    "keywords": 1.0,
                     "text_editor_knowledge": 0.85,
                     "packages": 0.85
                 }

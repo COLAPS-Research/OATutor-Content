@@ -28,15 +28,5 @@
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex001a-h4",
-        "type": "hint",
-        "dependencies": ["latex001a-h3"],
-        "title": "LaTeX Definition pt4",
-        "text": "The answer is {True Answere}!",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]
