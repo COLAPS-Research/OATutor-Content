@@ -1,0 +1,24 @@
+[
+    {
+        "id": "zzzzz_greek007a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Which place is both a real mountain and the mythical home of the Greek gods?",
+        "text": "This place is both a ream mountain and a mythical home.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_greek007a-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_greek007a-h1"
+        ],
+        "title": "Which mountain, both real and mythical, was believed to be the home from which Zeus ruled the gods?",
+        "text": "Zeus ruled the other gods from there.​",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

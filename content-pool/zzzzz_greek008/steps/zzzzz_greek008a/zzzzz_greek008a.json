@@ -1,0 +1,18 @@
+{
+    "id": "zzzzz_greek008a",
+    "stepAnswer": [
+        "4 (Albania, Bulgaria, Turkey, North Macedonia)​"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "How many neighboring countries does Greece have?​​",
+    "stepBody": "How many neighboring countries does Greece have?​",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "4 (Albania, Bulgaria, Turkey, North Macedonia)​",
+            "4  (Albania, Italy, Bulgaria, Turkey)",
+            "3 (Turkey, Albania, Italy)​",
+            "6 (Turkey, Albania, North Macedonia, Italy, Cyprus, Bulgaria)"
+        ],
+    "answerLatex": "4 (Albania, Bulgaria, Turkey, North Macedonia)​"
+}

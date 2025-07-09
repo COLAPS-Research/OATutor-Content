@@ -1,0 +1,24 @@
+[
+    {
+        "id": "zzzzz_greek0010a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "In which year did this event take place?",
+        "text": "The correct year is between 2000 and 2010​.​",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_greek0010a-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_greek0010a-h1"
+        ],
+        "title": "Which event happened in the same year Facebook was founded?",
+        "text": "In the same year facebook was founded.​.​",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

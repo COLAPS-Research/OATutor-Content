@@ -1,0 +1,18 @@
+{
+    "id": "zzzzz_greek007a",
+    "stepAnswer": [
+        "Olympus"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "According to Greek mythology, where did the main gods live?​​",
+    "stepBody": "According to Greek mythology, where did the main gods live?​",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "Acropolis",
+            "Delphi",
+            "Olympus",
+            "Troy"
+        ],
+    "answerLatex": "Olympus"
+}

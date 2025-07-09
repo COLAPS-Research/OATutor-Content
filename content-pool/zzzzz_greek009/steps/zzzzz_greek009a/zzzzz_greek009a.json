@@ -1,0 +1,17 @@
+{
+    "id": "zzzzz_greek009a",
+    "stepAnswer": [
+        "Sokrates​"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which famous greek philosopher said: “I know that ​I know nothing”?​​",
+    "stepBody": "Which famous greek philosopher said: “I know that I know nothing”?​",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "Platon​",
+            "Sokrates",
+            "Aristoteles​"
+        ],
+    "answerLatex": "Sokrates​"
+}
