@@ -1,0 +1,17 @@
+{
+    "id": "zzzzzz_drive02c",
+    "stepAnswer": [
+        "A,B"
+    ],
+     "problemType": "TextBox",
+    "stepTitle":"##drive02c.png",
+    "stepBody": "##Choice02c.png",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "  C.Always stop before the road narrows",
+            "  B.Refrain from overtaking",
+            "  A.Reduce your speed"
+        ],
+    "answerLatex": "A,B"
+}
