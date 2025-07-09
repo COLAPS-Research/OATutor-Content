@@ -10,9 +10,9 @@
     "variabilization": {},
     "choices": [
         "The document will not compile correctly",
-        "The document will auto-fix itself",
-        "A page with random garbage appears",
-        "Nothing special happens"
+        "Nothing, it is of no consequence",
+        "A page with giberish will be created",
+        "Nothing special happens, it will work as normal"
     ],
     "answerLatex": "The document will not compile correctly"
 }

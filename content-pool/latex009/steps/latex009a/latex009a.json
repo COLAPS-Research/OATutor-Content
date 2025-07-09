@@ -4,7 +4,7 @@
         "$ ... $"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "How do you start and close a math enviroment?",
+    "stepTitle": "How do you start and close the math mode in LaTeX?",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

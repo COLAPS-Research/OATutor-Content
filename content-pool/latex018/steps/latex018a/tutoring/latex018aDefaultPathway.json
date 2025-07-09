@@ -3,8 +3,8 @@
         "id": "latex018a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Paragraph Start pt1",
-        "text": "\\newline makes a line break, not a new paragraph.",
+        "title": "Thinking about usability",
+        "text": "When writing creating a new paragraph happens a lot! Thus logicaly it shoud be hassle free, quick and simple to do.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -13,28 +13,8 @@
         "id": "latex018a-h2",
         "type": "hint",
         "dependencies": ["latex018a-h1"],
-        "title": "Paragraph Start pt2",
-        "text": "\\newparagraph{} is not a real LaTeX command.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex018a-h3",
-        "type": "hint",
-        "dependencies": ["latex018a-h2"],
-        "title": "Paragraph Start pt3",
-        "text": "Adding spaces won't trigger paragraph formatting.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex018a-h4",
-        "type": "hint",
-        "dependencies": ["latex018a-h3"],
-        "title": "Paragraph Start pt4",
-        "text": "In LaTeX, a new paragraph starts with a blank line between blocks.",
+        "title": "LaTeX magic",
+        "text": "LaTeX will automatically format text for you! There is no need to manually make any line breaks.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

@@ -1,0 +1,12 @@
+{
+    "id": "latex026a",
+    "stepAnswer": [
+        "By examinen the previous example it becomes evident that $x \\in \\mathbb{R}$ as $z$ and $y$ are given"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "Write the following statement: \n \"By examinen the previous example it becomes evident that $x \\in \\mathbb{R}$ as $z$ and $y$ are given. \"",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "By examinen the previous example it becomes evident that $x \\in \\mathbb{R}$ as $z$ and $y$ are given"
+}

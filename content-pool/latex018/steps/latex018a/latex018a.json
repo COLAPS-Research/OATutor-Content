@@ -9,10 +9,10 @@
     "answerType": "string",
     "variabilization": {},
     "choices": [
-        "Leave a blank line",
-        "\\newline",
-        "\\newparagraph{}",
-        "Add two spaces"
+        "There is no command. Simply leaving a blank line will do.",
+        "\newline",
+        "\newparagraph{}",
+        "Add two tabs"
     ],
     "answerLatex": "Leave a blank line"
 }

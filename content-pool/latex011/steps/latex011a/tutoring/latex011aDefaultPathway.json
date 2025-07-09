@@ -3,28 +3,8 @@
         "id": "latex011a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Package Command pt1",
-        "text": "\"Library\" and \"package\" are not the same in LaTeX.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex011a-h2",
-        "type": "hint",
-        "dependencies": ["latex011a-h1"],
-        "title": "Package Command pt2",
-        "text": "\"Insert\" commands are not typical in LaTeX for packages.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex011a-h3",
-        "type": "hint",
-        "dependencies": ["latex011a-h2"],
-        "title": "Package Command pt3",
-        "text": "\"Load\" sounds reasonable but is not the official command.",
+        "title": "Here is a mnemonic",
+        "text": "Fedex and LaTeX both use packages when they work.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

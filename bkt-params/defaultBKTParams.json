@@ -61,20 +61,20 @@
         "probGuess": 0.1
     },
     "keywords": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
+        "probMastery": 0.03,
+        "probTransit": 0.03,
         "probSlip": 0.1,
-        "probGuess": 0.1
+        "probGuess": 0.2
     },
     "latex_technicals": { 
-        "probMastery": 0.1,
-        "probTransit": 0.1,
+        "probMastery": 0.3,
+        "probTransit": 0.3,
         "probSlip": 0.1,
         "probGuess": 0.1
     },
     "packages":  { 
-        "probMastery": 0.1,
-        "probTransit": 0.1,
+        "probMastery": 1,
+        "probTransit": 1,
         "probSlip": 0.1,
         "probGuess": 0.1
     }

@@ -1,18 +1,18 @@
 {
     "id": "latex010a",
     "stepAnswer": [
-        "typesetting mathematical expressions, e.g. an equation, a set and many more"
+        "Typesetting mathematical expressions"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "What is Math mode in Latex used for?",
+    "stepTitle": "What is math mode in Latex used for?",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
     "choices": [
-        "typesetting mathematical expressions, e.g. an equation, a set and many more",
-        "to solve an equation, for example 2x = 4 - 3x",
-        " to make your document look super cool, because your text becomes cursive",
-        "or doing letting the computer do basic algebra for you, e.g. what is 4+2"
+        "Typesetting mathematical expressions",
+        "Solve equations",
+        "Render text using fancy fonts commen in mathematics",
+        "Create a random equation as filler"
     ],
-    "answerLatex": "typesetting mathematical expressions, e.g. an equation, a set and many more"
+    "answerLatex": "Typesetting mathematical expressions"
 }

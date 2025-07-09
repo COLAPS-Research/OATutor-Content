@@ -3,41 +3,24 @@
         "id": "latex008a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Tex files pt1",
-        "text": "It’s not Microsoft’s world here",
+        "title": "Process of elimination",
+        "text": "Are there options that you already know? Which programs do they belong to?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
         "id": "latex008a-h2",
-        "type": "hint",
+        "type": "scaffolding",
         "dependencies": ["latex008a-h1"],
-        "title": "Tex files pt2",
-        "text": "HTML belongs to browsers",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex008a-h3",
-        "type": "hint",
-        "dependencies": ["latex008a-h2"],
-        "title": "Tex files pt3",
-        "text": "PDF is what comes after compiling",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex008a-h4",
-        "type": "hint",
-        "dependencies": ["latex008a-h3"],
-        "title": "Tex filespt4",
-        "text": "Think T-E-X as in TeX",
+        "title": "Learning something outside of LaTeX",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "choices": [".html", ".tex", ".pdf", ".docx"],
+        "hintAnswer": [".html"],
+        "text": "HTML (HyperText Markup Languag) is widly used in browsers and the internet. Which file type do you think it belongs too?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
-  
 ]

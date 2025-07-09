@@ -3,8 +3,8 @@
         "id": "latex013a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Document End pt1",
-        "text": "LaTeX requires a clear end to the document.",
+        "title": "A thing about computers",
+        "text": "Computers always work in a set order. When they start something, they need to finish it before they can move on.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -13,28 +13,8 @@
         "id": "latex013a-h2",
         "type": "hint",
         "dependencies": ["latex013a-h1"],
-        "title": "Document End pt2",
-        "text": "The system expects a specific closing instruction; it won't infer it.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex013a-h3",
-        "type": "hint",
-        "dependencies": ["latex013a-h2"],
-        "title": "Document End pt3",
-        "text": "While errors might occur, the primary issue is an incomplete process.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex013a-h4",
-        "type": "hint",
-        "dependencies": ["latex013a-h3"],
-        "title": "Document End pt4",
-        "text": "An explicit end command is crucial for successful processing.",
+        "title": "LaTeX assumes artistary",
+        "text": "Just as with any literary art, it is assumed to be precisly as the author intended. Thus LaTeX will not correct any missing commands",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

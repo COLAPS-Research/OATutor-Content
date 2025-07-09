@@ -32,7 +32,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "choices": ["\\sigma", "\\Sigma", "\\mathbb{Sigma}", "\\GreekLetterSigma"],
-        "hintAnswer": ["\\Simga"],
+        "hintAnswer": ["\\Sigma"],
         "dependencies": ["latex003a-h2"],
         "title": "Sigma and LaTeX",
         "text": "Greek letters are not a given on normal keyboard layouts. So LaTeX adds them as Keywords. What Keyword would you choose for a capital sigma?",
@@ -42,7 +42,7 @@
     },
     {
         "id": "latex003a-h4",
-        "type": "hint",
+        "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
         "choices": ["Using _ and ^", "Using | and _", "Using * and %", "Using / and \\"],

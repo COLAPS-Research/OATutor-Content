@@ -32,12 +32,12 @@
                 "id": "group2_latex",
                 "name": "LaTeX 101",
                 "topics": "LaTeX",
-                "allowRecycle": true,
+                "allowRecycle": false,
                 "learningObjectives": {
-                    "greek_letters": 0.85,
+                    "greek_letters": 1.0,
                     "formulars": 1.0,
                     "keywords": 1.0,
-                    "latex_technicals": 0.85,
+                    "latex_technicals": 1.0,
                     "packages": 0.85
                 }
             }

@@ -3,8 +3,8 @@
         "id": "latex010a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Math Mode Use pt1",
-        "text": "LaTeX is a markup language",
+        "title": "Recall the purpose of LaTeX",
+        "text": "Discarding how foreign the usage may feel, LaTeXs purpose is not to solve equations, but to render them.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -13,8 +13,8 @@
         "id": "latex010a-h2",
         "type": "hint",
         "dependencies": ["latex010a-h1"],
-        "title": "Math Mode Use pt2",
-        "text": "LaTeX cannot solve mathematical problems",
+        "title": "Be critical",
+        "text": "Would there be a use case to render a random mathematical equation with a command?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -23,21 +23,10 @@
         "id": "latex010a-h3",
         "type": "hint",
         "dependencies": ["latex010a-h2"],
-        "title": "Math Mode Use pt3",
-        "text": " you would use \\textit{} to generate cursive text",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex010a-h4",
-        "type": "hint",
-        "dependencies": ["latex010a-h3"],
-        "title": "Math Mode Use pt4",
-        "text": "It's typesetting mathematical expressions, e.g. an equation, a set and many more",
+        "title": "Rendering special characters",
+        "text": "LaTeX will not render special characters unless told to. Changing the mode of a text does not tell LaTeX to do so.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
-  
 ]

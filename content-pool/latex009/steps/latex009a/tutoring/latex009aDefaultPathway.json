@@ -1,10 +1,14 @@
 [
     {
         "id": "latex009a-h1",
-        "type": "hint",
+        "type": "scaffold",
         "dependencies": [],
-        "title": "Math Mode pt1",
-        "text": "% is used for comments, that don't get seen in the compiled document ",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "choices": ["%", "$", "@"],
+        "hintAnswer": ["%"],
+        "title": "Anything you know already?",
+        "text": "Are there any options using symbols you know have different uses in LaTeX? The answer here has a use for comments.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -13,8 +17,8 @@
         "id": "latex009a-h2",
         "type": "hint",
         "dependencies": ["latex009a-h1"],
-        "title": "Math Mode pt2",
-        "text": "math Environment is an essential feature of LaTeX and doesn't use the begin end Syntax",
+        "title": "Thinking about convenience",
+        "text": "Given how essential and widespread LaTeX use is for equations. Would you imagine the creation of a math mode to take more or less keystrokes?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -23,21 +27,10 @@
         "id": "latex009a-h3",
         "type": "hint",
         "dependencies": ["latex009a-h2"],
-        "title": "Math Mode pt3",
-        "text": " @ is just a regular letter in LaTeX",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex009a-h4",
-        "type": "hint",
-        "dependencies": ["latex009a-h3"],
-        "title": "Math Mode pt4",
-        "text": "It's $...$",
+        "title": "Building a mnemonic",
+        "text": "Which of the remaining symboles does have a stronger association with numbers?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
-  
 ]

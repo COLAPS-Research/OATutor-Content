@@ -3,38 +3,8 @@
         "id": "latex012a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Image Command pt1",
-        "text": "The command doesn't use a general verb for placement.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex012a-h2",
-        "type": "hint",
-        "dependencies": ["latex012a-h1"],
-        "title": "Image Command pt2",
-        "text": "\"Putimage\" is not a valid LaTeX syntax.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex012a-h3",
-        "type": "hint",
-        "dependencies": ["latex012a-h2"],
-        "title": "Image Command pt3",
-        "text": "\"Addpicture\" does not exist as a LaTeX command.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex012a-h4",
-        "type": "hint",
-        "dependencies": ["latex012a-h3"],
-        "title": "Image Command pt4",
-        "text": "The correct command to add images is \\includegraphics{}.",
+        "title": "Building a mnemonic",
+        "text": "LaTeX includes graphics, just like tex-mex includes beans",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

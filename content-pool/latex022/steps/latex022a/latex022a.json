@@ -4,7 +4,7 @@
         "\\section{\\emph{Summary}}"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Which LaTeX command creates a section titled 'Summary' in italics?",
+    "stepTitle": "Which LaTeX command creates a section titled with emphasized titled \"Summary\"?",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

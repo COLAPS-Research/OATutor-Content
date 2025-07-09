@@ -3,8 +3,8 @@
         "id": "latex022-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Hint pt1",
-        "text": "Use both a section and italics",
+        "title": "Chaining commands",
+        "text": "LaTeX does allow one to run a command inside the content of another command! This is very powerfull and allows for more freedom.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -13,8 +13,8 @@
         "id": "latex022-h2",
         "type": "hint",
         "dependencies": ["latex022-h1"],
-        "title": "Hint pt2",
-        "text": "Order matters: section then italics inside",
+        "title": "A thing about computer programs and mathematics",
+        "text": "Functions in mathematics can be chained/nested. The inner function is always calculated first. The same goes for program functions and thus LaTeX!",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -23,18 +23,8 @@
         "id": "latex022-h3",
         "type": "hint",
         "dependencies": ["latex022-h2"],
-        "title": "Hint pt3",
-        "text": "Just italics or just section isn't enough",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex022-h4",
-        "type": "hint",
-        "dependencies": ["latex022-h3"],
-        "title": "Hint pt4",
-        "text": "Italics appears within the section command",
+        "title": "Thinking about command names",
+        "text": "Command names are not choosen randomly. They carry meaning. What could the short bf in \\textbf or \\emph mean?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

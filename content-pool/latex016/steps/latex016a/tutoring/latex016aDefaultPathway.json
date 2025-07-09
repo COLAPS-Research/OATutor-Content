@@ -3,8 +3,8 @@
         "id": "latex016a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Title Command pt1",
-        "text": "\\addtitle{} is not a recognized LaTeX command.",
+        "title": "Common LaTeX command structure",
+        "text": "LaTeX commands that format text will, by convention, not include any verbs.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -13,8 +13,8 @@
         "id": "latex016a-h2",
         "type": "hint",
         "dependencies": ["latex016a-h1"],
-        "title": "Title Command pt2",
-        "text": "\\documenttitle{} is not part of the standard LaTeX title system.",
+        "title": "Thinking about usability",
+        "text": "For LaTeX everything your write will always be inside a document. Thus any title you add must be the document title. This also means there is no need to make this explizit in a command. This safes keystrokes when typing.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -23,18 +23,8 @@
         "id": "latex016a-h3",
         "type": "hint",
         "dependencies": ["latex016a-h2"],
-        "title": "Title Command pt3",
-        "text": "\\head{} does not exist in LaTeX title mechanics.",
-        "variabilization": {},
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "latex016a-h4",
-        "type": "hint",
-        "dependencies": ["latex016a-h3"],
-        "title": "Title Command pt4",
-        "text": "The correct command to define a title is \\title{}.",
+        "title": "LaTeX dosn't just seem headless at times.",
+        "text": "\\head{} does not exist in LaTeX.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
