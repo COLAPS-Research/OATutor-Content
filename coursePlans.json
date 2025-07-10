@@ -1,13 +1,13 @@
 [
     {
-        "courseName": "ILE Lab",
+        "courseName": "Driving Course",
         "courseOER": "https://link_to_your_oer_resource.com",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/",
         "lessons": [
             {
                 "id": "group5_driving_tutorial",
-                "name": "1.3: Driving License Theory",
-                "topics": "Understanding the driving",
+                "name": "Traffic Regulations and Signs",
+                "topics": "Understanding the Traffic Rules and Signs",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "traffic_signs_and_signals": 0.85,
