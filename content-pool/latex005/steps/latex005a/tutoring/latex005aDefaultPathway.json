@@ -10,7 +10,7 @@
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
-        "id": "latex005a-h3",
+        "id": "latex005a-h2",
         "type": "hint",
         "dependencies": ["latex005a-h1"],
         "title": "Remembering special things",
@@ -20,7 +20,7 @@
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
-        "id": "latex005a-h4",
+        "id": "latex005a-h3",
         "type": "hint",
         "dependencies": ["latex005a-h2"],
         "title": "Thinking about escape",
