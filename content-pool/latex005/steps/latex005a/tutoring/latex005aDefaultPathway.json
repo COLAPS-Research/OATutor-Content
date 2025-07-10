@@ -22,7 +22,7 @@
     {
         "id": "latex005a-h4",
         "type": "hint",
-        "dependencies": ["latex005a-h2"],
+        "dependencies": ["latex005a-h3"],
         "title": "Thinking about escape",
         "text": "If you wanted to show {} what would you have to do?",
         "variabilization": {},
