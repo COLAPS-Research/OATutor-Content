@@ -10,8 +10,8 @@
     "variabilization": {},
     "choices": [
         "There is no command. Simply leaving a blank line will do.",
-        "\newline",
-        "\newparagraph{}",
+        "\\makeline",
+        "\\addparagraph{}",
         "Add two tabs"
     ],
     "answerLatex": "There is no command. Simply leaving a blank line will do."
