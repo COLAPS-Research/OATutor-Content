@@ -14,7 +14,7 @@
         "type": "hint",
         "dependencies": ["latex005a-h1"],
         "title": "Remembering special things",
-        "text": "Recall what you know about the keywords and characters with special meanings",
+        "text": "Recall what you know about the keywords and characters with special meanings.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

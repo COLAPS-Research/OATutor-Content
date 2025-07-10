@@ -24,7 +24,7 @@
         "type": "hint",
         "dependencies": ["latex015a-h2"],
         "title": "English can be quite a precise language",
-        "text": "LaTeX wants to be precise. There is a verb in english for counting things up.",
+        "text": "LaTeX wants to be precise. There is a verb in English for counting things up.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
