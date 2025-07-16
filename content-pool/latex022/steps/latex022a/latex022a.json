@@ -1,0 +1,18 @@
+{
+    "id": "latex022a",
+    "stepAnswer": [
+        "\\section{\\emph{Summary}}"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which LaTeX command creates a section titled with emphasized titled \"Summary\"?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "\\section{\\emph{Summary}}",
+        "\\textbf{Summary}",
+        "\\section{Summary}",
+        "\\emph{\\section{Summary}}"
+    ],
+    "answerLatex": "\\section{\\emph{Summary}}"
+}

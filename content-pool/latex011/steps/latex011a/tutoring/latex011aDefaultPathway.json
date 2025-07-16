@@ -1,0 +1,12 @@
+[
+    {
+        "id": "latex011a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Here is a mnemonic",
+        "text": "Fedex and LaTeX both use packages when they work.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

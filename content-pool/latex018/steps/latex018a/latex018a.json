@@ -1,0 +1,18 @@
+{
+    "id": "latex018a",
+    "stepAnswer": [
+        "There is no command. Simply leaving a blank line will do."
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What command starts a new paragraph in LaTeX?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "There is no command. Simply leaving a blank line will do.",
+        "\\makeline",
+        "\\addparagraph{}",
+        "Add two tabs"
+    ],
+    "answerLatex": "There is no command. Simply leaving a blank line will do."
+}

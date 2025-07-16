@@ -1,0 +1,18 @@
+{
+    "id": "latex001a",
+    "stepAnswer": [
+        "A markup language to programmaticaly describe, manage and update a document layout and its content"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What is LaTeX?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "A markup language to programmaticaly describe, manage and update a document layout and its content",
+        "A Texteditor",
+        "An Operatingsystem",
+        "Young people slang for latin"
+    ],
+    "answerLatex": "A markup language to programmaticaly describe, manage and update a document layout and its content"
+}

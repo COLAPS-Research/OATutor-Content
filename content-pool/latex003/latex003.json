@@ -1,0 +1,10 @@
+{
+    "id": "latex003",
+    "title": "Writing a complex equation",
+    "body": "Equations are one of the main motivaions to use LaTeX. Let's try writing a more advanced one!",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+    "lesson": "LaTeX 101",
+    "courseName": "ILE Lab"
+}

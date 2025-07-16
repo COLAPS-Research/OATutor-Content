@@ -1,0 +1,36 @@
+[
+    {
+        "id": "latex009a-h1",
+        "type": "scaffold",
+        "dependencies": [],
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "choices": ["%", "$", "@"],
+        "hintAnswer": ["%"],
+        "title": "Anything you know already?",
+        "text": "Are there any options using symbols you know have different uses in LaTeX? The answer here has a use for comments.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex009a-h2",
+        "type": "hint",
+        "dependencies": ["latex009a-h1"],
+        "title": "Thinking about convenience",
+        "text": "Given how essential and widespread LaTeX use is for equations. Would you imagine the creation of a math mode to take more or less keystrokes?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex009a-h3",
+        "type": "hint",
+        "dependencies": ["latex009a-h2"],
+        "title": "Building a mnemonic",
+        "text": "Which of the remaining symboles does have a stronger association with numbers?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

@@ -1,0 +1,18 @@
+{
+    "id": "latex010a",
+    "stepAnswer": [
+        "Typesetting mathematical expressions"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What is math mode in Latex used for?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "Typesetting mathematical expressions",
+        "Solve equations",
+        "Render text using fancy fonts commen in mathematics",
+        "Create a random equation as filler"
+    ],
+    "answerLatex": "Typesetting mathematical expressions"
+}

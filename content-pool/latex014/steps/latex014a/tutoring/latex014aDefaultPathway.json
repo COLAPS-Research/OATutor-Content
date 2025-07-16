@@ -1,0 +1,40 @@
+[
+    {
+        "id": "latex014a-h1",
+        "type": "scaffold",
+        "dependencies": [],
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "choices": ["%", "$", "/"],
+        "hintAnswer": ["%"],
+        "title": "Anything you know already? - 1",
+        "text": "Are there any options using symbols you know have different uses in LaTeX? The answer here has a use for comments.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex014a-h2",
+        "type": "scaffold",
+        "dependencies": ["latex014a-h1"],
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "choices": ["%", "$", "/"],
+        "hintAnswer": ["$"],
+        "title": "Anything you know already? - 2",
+        "text": "Are there any options using symbols you know have different uses in LaTeX? The answer here is used in the math mode.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex014a-h3",
+        "type": "hint",
+        "dependencies": ["latex014a-h2"],
+        "title": "Computer program conventions",
+        "text": "Duo to history, the character for \\ has always been used to escape standard behaviour",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": "latex021h-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Thinking about command names",
+        "text": "Names of commands are not choosen by random. Much thought gets put into them. Try imagining what certain commands do.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex021h-h2",
+        "type": "hint",
+        "dependencies": ["latex021h-h1"],
+        "title": "Emphasizing vs. Italics",
+        "text": "\\emph stand for emphasizing and the it in \\textit for italics. They are quit different. \\emph can be changed by the author in the preamble at any time. Thus changing the way emphasized text is displayed.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

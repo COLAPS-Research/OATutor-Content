@@ -1,0 +1,22 @@
+[
+    {
+        "id": "latex020a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Thinking about conventions in LaTeX",
+        "text": "We mention multiple times that display changes wouldn't include verbs and that they would be simple commands. However, changes to the order/placement of content are different.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }, 
+    {
+        "id": "latex020a-h2",
+        "type": "hint",
+        "dependencies": ["latex020a-h1"],
+        "title": "Centering environment",
+        "text": "Proper centering requires an environment, not a single command.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

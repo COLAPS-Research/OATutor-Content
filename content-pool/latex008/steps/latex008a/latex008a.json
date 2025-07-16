@@ -1,0 +1,18 @@
+{
+    "id": "latex008a",
+    "stepAnswer": [
+        ".tex"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which file extension does a basic LaTeX source file use?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        ".tex",
+        ".docx",
+        ".html",
+        ".pdf"
+    ],
+    "answerLatex": ".tex"
+}

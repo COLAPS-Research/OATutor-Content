@@ -1,0 +1,18 @@
+{
+    "id": "latex012a",
+    "stepAnswer": [
+        "\\includegraphics{}"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "How do you insert an image in LaTeX?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "\\includegraphics{}",
+        "\\insertimage{}",
+        "\\putimage{}",
+        "\\addpicture{}"
+    ],
+    "answerLatex": "\\includegraphics{}"
+}

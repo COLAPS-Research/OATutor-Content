@@ -1,0 +1,12 @@
+[
+    {
+        "id": "latex012a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Building a mnemonic",
+        "text": "LaTeX includes graphics, just like tex-mex includes beans",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

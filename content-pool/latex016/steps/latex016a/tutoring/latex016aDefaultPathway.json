@@ -1,0 +1,32 @@
+[
+    {
+        "id": "latex016a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Common LaTeX command structure",
+        "text": "LaTeX commands that format text will, by convention, not include any verbs.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex016a-h2",
+        "type": "hint",
+        "dependencies": ["latex016a-h1"],
+        "title": "Thinking about usability",
+        "text": "For LaTeX everything your write will always be inside a document. Thus any title you add must be the document title. This also means there is no need to make this explizit in a command. This safes keystrokes when typing.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex016a-h3",
+        "type": "hint",
+        "dependencies": ["latex016a-h2"],
+        "title": "LaTeX dosn't just seem headless at times.",
+        "text": "\\head{} does not exist in LaTeX.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": "latex007a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Groupping in LaTeX and how it usually works",
+        "text": "Recall what you know about the placement of content in regards to a page. Where are commands rendered?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex007a-h2",
+        "type": "hint",
+        "dependencies": ["latex007a-h1"],
+        "title": "Thinking about the {}",
+        "text": "What could the {} be used for in this command? If anything is written into them, what could that get turned into?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

@@ -1,50 +1,78 @@
 {
-    "zzzzhistory01a": [
-        "historical_context",
-        "research_significance"
+    "latex001a": [
+        "latex_technicals"
     ],
-    "zzzzhistory02a": [
-        "historical_context",
-        "research_significance"
+    "latex002a": [
+        "latex_technicals"
     ],
-    "zzzzhistory03a": [
-        "historical_context",
-        "research_significance"
+    "latex003a": [
+        "formulars",
+        "greek_letters"
     ],
-    "zzzzz_git001a": [
-        "basic_git_concepts"
+    "latex004a": [
+        "packages",
+        "keywords"
     ],
-    "zzzzz_git001b": [
-        "basic_git_concepts"
+    "latex005a": [
+        "keywords"
     ],
-    "zzzzz_git001c": [
-        "basic_git_concepts",
-        "basic_git_operations"
+    "latex006a": [
+        "formulars",
+        "keywords"
     ],
-    "zzzzz_git002a": [
-        "basic_git_operations"
+     "latex007a": [
+        "keywords"
     ],
-    "zzzzz_git002b": [
-        "basic_git_operations"
+     "latex008a": [
+        "latex_technicals"
     ],
-    "zzzzz_git002c": [
-        "basic_git_operations"
+     "latex009a": [
+        "keywords"
     ],
-    "zzzzz_git002d": [
-        "basic_git_operations"
+     "latex010a": [
+        "keywords"
     ],
-    "zzzzz_gg1": [
-        "general_knowledge"
+    "latex011a": [
+        "keywords"
     ],
-    "zzzzz_gg2": [
-        "european_continent"
+    "latex012a": [
+        "keywords"
     ],
-    "zzzzz_gg3": ["regional_geography"],
-    "zzzzz_gg4": ["cultural_literacy"],
-    "zzzzz_gg5": ["cultural_literacy"],
-    "zzzzz_gg6": ["civic_knowledge"],
-    "zzzzz_gg7": ["geographical_orientation"],
-    "zzzzz_gg8": ["general_knowledge"],
-    "zzzzz_gg9": ["cultural_literacy"],
-    "zzzzz_gg10": ["regional_geography"]
+     "latex013a": [
+        "keywords"
+    ],
+    "latex014a": [
+        "keywords"
+    ],
+    "latex015a": [
+        "keywords"
+    ],
+    "latex016a": [
+        "keywords"
+    ],
+    "latex016b": [
+        "keywords"
+    ],
+    "latex018a": [
+        "keywords"
+    ],
+    "latex019a": [
+        "keywords"
+    ],
+    "latex020a": [
+        "keywords"
+    ],
+    "latex021a": [
+        "keywords"
+    ],
+    "latex022a": [
+        "keywords"
+    ],
+    "latex023a": [
+        "keywords"
+    ],
+    "latex026a": [
+        "keywords",
+        "formulars"
+    ]
 }

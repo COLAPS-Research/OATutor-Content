@@ -1,0 +1,32 @@
+[
+    {
+        "id": "latex001a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Starting big",
+        "text": "What programs do you know that deal with text?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex001a-h2",
+        "type": "hint",
+        "dependencies": ["latex001a-h1"],
+        "title": "Going slightly closer",
+        "text": "What kind of environment would you encounter LaTeX in?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex001a-h3",
+        "type": "hint",
+        "dependencies": ["latex001a-h2"],
+        "title": "Thinking about the users",
+        "text": "Young people would rather study latin than LaTeX, old people alike. Scientists however, see no equal ot it.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

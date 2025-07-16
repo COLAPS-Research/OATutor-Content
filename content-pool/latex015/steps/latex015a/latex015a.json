@@ -1,0 +1,18 @@
+{
+    "id": "latex015a",
+    "stepAnswer": [
+        "\\begin{enumerate}"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "How do you create a numbered list in LaTeX?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "\\begin{enumerate}",
+        "\\begin{itemize}",
+        "\\start{numbering}",
+        "\\begin{numbers}"
+    ],
+    "answerLatex": "\\begin{enumerate}"
+}
