@@ -1,0 +1,24 @@
+[
+    {
+        "id": "zzzzz_greek004a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Which appetizers come into your mind?",
+        "text": "The answer is an Greek appetizer.​",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_greek004a-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_greek004a-h1"
+        ],
+        "title": "What of the given answers contains fish eggs?",
+        "text": "The appetizer contains fish eggs.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

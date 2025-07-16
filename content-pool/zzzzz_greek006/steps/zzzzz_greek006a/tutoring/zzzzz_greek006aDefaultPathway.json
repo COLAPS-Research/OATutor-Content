@@ -1,0 +1,24 @@
+[
+    {
+        "id": "zzzzz_greek006a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Which sea separates mainland Greece from Turkey?",
+        "text": "This Sea separates mainland Greece from Turkey.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_greek006a-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_greek006a-h1"
+        ],
+        "title": "In which sea are popular Greek islands like Mykonos and Santorini located?",
+        "text": "Many popular Greek Islands like Mykonoa and Santorini are located in it.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

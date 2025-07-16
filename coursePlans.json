@@ -49,6 +49,17 @@
                 "latex_technicals": 1.0,
                 "packages": 0.85
             }
+        },
+        {
+            "id": "greek_tutor",
+            "name": "Greek Tutor",
+            "topics": "Domain Knowledge",
+            "allowRecycle": false,
+            "learningObjectives": {
+                "basic_greek_concepts": 0.99
+
+            }
+                
         }
     ]
 }]

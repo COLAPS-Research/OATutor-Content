@@ -1,0 +1,24 @@
+[
+    {
+        "id": "zzzzz_greek009a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Which philosopher is known for asking questions but left no written works?",
+        "text": "He is famous for asking questions - he himself did not leave any written works​",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_greek009a-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_greek009a-h1"
+        ],
+        "title": "Who was the teach of Platon?",
+        "text": "He was the teacher of Platon and known for his method of questioning to seek truth.​.​",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

@@ -1,0 +1,18 @@
+{
+    "id": "zzzzz_greek006a",
+    "stepAnswer": [
+        "Aegean Sea"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which sea lies to the east of Greece?​​",
+    "stepBody": "Which sea lies to the east of Greece?​",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "Adriatic Sea",
+            "Black Sea",
+            "Aegean Sea",
+            "Red Sea"
+        ],
+    "answerLatex": "Aegean Sea"
+}
