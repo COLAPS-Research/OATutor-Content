@@ -14,42 +14,6 @@
     "zzzzz_git001a": [
         "basic_git_concepts"
     ],
-      "zzzzz_greek001a": [
-        "basic_greek_concepts"
-    ],
-    
-      "zzzzz_greek002a": [
-        "basic_greek_concepts"
-    ],
-    
-      "zzzzz_greek003a": [
-        "basic_greek_concepts"
-    ],
-    
-      "zzzzz_greek004a": [
-        "basic_greek_concepts"
-    ],
-     
-      "zzzzz_greek005a": [
-        "basic_greek_concepts"
-    ],
-    
-      "zzzzz_greek006a": [
-        "basic_greek_concepts"
-    ],
-     
-      "zzzzz_greek007a": [
-        "basic_greek_concepts"
-    ],
-      "zzzzz_greek008a": [
-        "basic_greek_concepts"
-    ],
-      "zzzzz_greek009a": [
-        "basic_greek_concepts"
-    ],
-      "zzzzz_greek0010a": [
-        "basic_greek_concepts"
-    ],
     "zzzzz_git002a": [
         "basic_git_operations"
     ],
@@ -150,5 +114,36 @@
     "latex026a": [
         "keywords",
         "formulars"
+    ],
+    "zzzzz_greek001a": [
+        "basic_greek_concepts"
+    ],
+    
+    "zzzzz_greek002a": [
+        "basic_greek_concepts"
+    ],
+    "zzzzz_greek003a": [
+        "basic_greek_concepts"
+    ],
+    "zzzzz_greek004a": [
+        "basic_greek_concepts"
+    ],
+    "zzzzz_greek005a": [
+        "basic_greek_concepts"
+    ],
+    "zzzzz_greek006a": [
+        "basic_greek_concepts"
+    ],
+    "zzzzz_greek007a": [
+        "basic_greek_concepts"
+    ],
+    "zzzzz_greek008a": [
+        "basic_greek_concepts"
+    ],
+    "zzzzz_greek009a": [
+        "basic_greek_concepts"
+    ],
+    "zzzzz_greek0010a": [
+        "basic_greek_concepts"
     ]
 }
