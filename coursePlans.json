@@ -77,6 +77,16 @@
                 "fact_checking_ML": 0.85,
                 "generalization_understanding": 0.85
             }
+        },
+        {
+            "id": "group5_driving_tutorial",
+            "name": "Traffic Regulations and Signs",
+            "topics": "Understanding the Traffic Rules and Signs",
+            "allowRecycle": true,
+            "learningObjectives": {
+                "traffic_signs_and_signals": 0.85,
+                "rules_of_the_road": 0.85
+            }
         }
     ]
 }]

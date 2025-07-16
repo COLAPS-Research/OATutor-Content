@@ -1,0 +1,18 @@
+{
+    "id": "zzzzzz_drive04a",
+    "stepAnswer": [
+        "At crossroads and junctions"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "At which places where there are no traffic signs regulating priority does the rule right before left apply?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "At crossroads and junctions",
+            "At driveways",
+            "At the end of a traffic calmed area"
+        ],
+    "answerLatex": "At crossroads and junctions"
+}
+

@@ -1,0 +1,17 @@
+{
+    "id": "zzzzzz_drive02a",
+    "stepAnswer": [
+        "A, B, C"
+    ],
+     "problemType": "TextBox",
+    "stepTitle":"##drive02a.png",
+    "stepBody": "##Choice02a.png",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "  A.Greatest alertness",
+            "  B.Readiness to brake",
+            "  C.Reduction in speed"
+        ],
+    "answerLatex": "A, B, C"
+}

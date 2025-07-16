@@ -1,0 +1,17 @@
+{
+    "id": "zzzzzz_drive06a",
+    "stepAnswer": [
+        "Motorcycle, Me, Bus"
+    ],
+     "problemType": "MultipleChoice",
+    "stepTitle": "In which order should each driver go?",
+    "stepBody": "What should you do?",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "Motorcycle, Me, Bus",
+            "Bus, Me, Motorcycle",
+            "Me, Bus, Motorcycle"
+        ],
+    "answerLatex": "Motorcycle, Me, Bus"
+}

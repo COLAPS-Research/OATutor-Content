@@ -184,5 +184,38 @@
         "fact_checking_ML",
         "conceptual_integration",
         "generalization_understanding"
+    ],
+        "zzzzzz_drive01a": [
+        "traffic_signs_and_signals",
+        "rules_of_the_road"
+    ],
+    "zzzzzz_drive02a": [
+        "traffic_signs_and_signals",
+        "rules_of_the_road"
+    ],
+    "zzzzzz_drive03a": [
+        "traffic_signs_and_signals",
+        "rules_of_the_road"
+    ],    
+    "zzzzzz_drive03b": [
+        "traffic_signs_and_signals",
+        "rules_of_the_road"
+    ],
+    "zzzzzz_drive04a": [
+        "traffic_signs_and_signals",
+        "rules_of_the_road"
+    ],
+
+	"zzzzzz_drive05a": [
+        "traffic_signs_and_signals",
+        "rules_of_the_road"
+    ],
+    "zzzzzz_drive05b":[
+        "traffic_signs_and_signals",
+        "rules_of_the_road"
+    ],
+	"zzzzzz_drive06a": [
+        "traffic_signs_and_signals",
+        "rules_of_the_road"
     ]
 }

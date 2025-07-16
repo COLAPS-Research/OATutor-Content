@@ -1,0 +1,17 @@
+{
+    "id": "zzzzzz_drive05b",
+    "stepAnswer": [
+        "Avoid making noise"
+    ],
+     "problemType": "MultipleChoice",
+    "stepTitle": "You have manoeuvred into the left lane by mistake, but would like to take a right turn. What is the right course of action?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "Avoid making noise",
+            "switch on parking light",
+            "Speed up to pass quickly"
+        ],
+    "answerLatex": "Avoid making noise"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "zzzzzz_drive03a",
+    "stepAnswer": [
+        "From the right-turn lane, you may turn right while obeying the traffic signs."
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which is correct?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+        "choices": [
+            "From the right-turn lane, you may turn right while obeying the traffic signs.",
+            "I may only turn when the lights show 'green'."
+        ],
+    "answerLatex": "From the right-turn lane, you may turn right while obeying the traffic signs."
+}
