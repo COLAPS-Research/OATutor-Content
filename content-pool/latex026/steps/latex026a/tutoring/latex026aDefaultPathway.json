@@ -1,0 +1,48 @@
+[
+    {
+        "id": "latex026a-h1",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "string",
+        "hintAnswer": ["$ ... $", "$$", "$...$", "$..$", "$....$"],
+        "dependencies": [],
+        "title": "Writing equations in LaTeX",
+        "text": "What ways do you know to write an equation in latex? Which one would be the simplest one?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex026a-h2",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "choices": [
+            "This text is {x + 1} times cooler because it has math in it.",
+            "This text is $x + 1$ times cooler because it has math in it.",
+            "This text is #x + 1# times cooler because it has math in it.",
+            "This text is %x + 1% times cooler because it has math in it."
+        ],
+        "hintAnswer": ["This text is $x + 1$ times cooler because it has math in it."],
+        "dependencies": ["latex026a-h1"],
+        "title": "Combining text and equations",
+        "text": "With $ ... $ one can write an equation but how can such an equation be incorporated into text?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex026a-h3",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "choices": ["R}", "\\mathbb{R}", "\\mathbb{Sigma}", "\\mathbb{Omega}"],
+        "hintAnswer": ["\\mathbb{R}"],
+        "dependencies": ["latex026a-h2"],
+        "title": "You need to include a fancy looking cursive R. How do you do that?",
+        "text": "Greek letters are not a given on normal keyboard layouts. So LaTeX adds them as Keywords. What Keyword would you choose for a capital sigma?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

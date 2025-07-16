@@ -1,0 +1,70 @@
+[
+    {
+        "id": "latex003a-h1",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "string",
+        "hintAnswer": ["$ ... $", "$$", "$...$", "$..$", "$....$"],
+        "dependencies": [],
+        "title": "Writing equations in LaTeX",
+        "text": "What ways do you know to write an equation in latex? Which one would be the simplest one?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex003a-h2",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "choices": ["Greek Letters", "Spanish Letters", "English Letters", "Chinese Letters"],
+        "hintAnswer": ["Greek Letters"],
+        "dependencies": ["latex003a-h1"],
+        "title": "Mathematics and choosen Letters",
+        "text": "Mathematics relies on variables like x, y and z. What other language and its letters can be found in mathematics?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex003a-h3",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "choices": ["\\sigma", "\\Sigma", "\\mathbb{Sigma}", "\\GreekLetterSigma"],
+        "hintAnswer": ["\\Sigma"],
+        "dependencies": ["latex003a-h2"],
+        "title": "Sigma and LaTeX",
+        "text": "Greek letters are not a given on normal keyboard layouts. So LaTeX adds them as Keywords. What Keyword would you choose for a capital sigma?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex003a-h4",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "choices": ["Using _ and ^", "Using | and _", "Using * and %", "Using / and \\"],
+        "hintAnswer": ["Using _ and ^"],
+        "dependencies": ["latex003a-h3"],
+        "title": "Subscript and Superscript",
+        "text": "Writing things below or above other things is unintuitive isn't it? There must be some special charakters to do it with. Arrows are not on the keyboard, but are there other things that seem like they are below/above other things?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex003a-h5",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "string",
+        "hintAnswer": ["{}", "{ }", "{..}","{...}", "{ .. }","{ ... }","{ ...}"],
+        "dependencies": ["latex003a-h4"],
+        "title": "Groupping things",
+        "text": "Sometimes you want to group things together to affect them all together. What do mathematicians write when they talk about groups?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

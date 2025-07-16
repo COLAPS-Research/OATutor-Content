@@ -1,0 +1,18 @@
+{
+    "id": "latex019a",
+    "stepAnswer": [
+        "\\textbf{}"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which command is used to make text bold in LaTeX?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "\\textbf{}",
+        "\\bold{}",
+        "\\strong{}",
+        "\\b{}"
+    ],
+    "answerLatex": "\\textbf{}"
+}

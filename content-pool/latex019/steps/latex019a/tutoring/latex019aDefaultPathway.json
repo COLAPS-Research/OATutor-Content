@@ -1,0 +1,22 @@
+[
+    {
+        "id": "latex019a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "LaTeX command conventions",
+        "text": "By convention LaTeX commands that change how somehting is displayed do not use verbs. But they very much do use adjectives and nouns.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex019a-h2",
+        "type": "hint",
+        "dependencies": ["latex019a-h1"],
+        "title": "Thinking about naming",
+        "text": "Looking at the options, one includes bf. And another is simply b. What could these stand for?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

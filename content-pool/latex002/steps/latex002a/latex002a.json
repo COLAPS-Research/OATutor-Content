@@ -1,0 +1,19 @@
+{
+    "id": "latex002a",
+    "stepAnswer": [
+        "Preamble + Textfile"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "How is a LaTeX File structured?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "Preamble + Textfile",
+        "It is not, entropy consumes all",
+        "Header, Body and Footer",
+        "Preamble + Body",
+        "Table of content + Content"  
+    ],
+    "answerLatex": "Preamble + Textfile"
+}

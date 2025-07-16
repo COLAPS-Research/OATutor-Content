@@ -1,0 +1,18 @@
+{
+    "id": "latex005a",
+    "stepAnswer": [
+        "Suppose that x and y are Elements of Z\\{0}"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which one of these examples is not correct LaTeX?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "$1 + 2 = 3$",
+        "$(\\frac{1}{2})^2$",
+        "Suppose that x and y are Elements of Z\\{0}",
+        "The failure of patiance shall not include the build up of anger \\cite{Nerd1}"
+    ],
+    "answerLatex": "Suppose that x and y are Elements of Z\\{0}"
+}

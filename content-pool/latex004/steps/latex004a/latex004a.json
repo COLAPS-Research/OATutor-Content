@@ -1,0 +1,12 @@
+{
+    "id": "latex004a",
+    "stepAnswer": [
+        "\\includegraphics{diagram1.pdf}"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "Including a diagram in your .tex file",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "\\includegraphics{diagram1.pdf}"
+}

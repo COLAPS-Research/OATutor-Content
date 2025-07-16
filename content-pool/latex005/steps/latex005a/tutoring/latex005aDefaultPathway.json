@@ -1,0 +1,32 @@
+[
+    {
+        "id": "latex005a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "We are not mean!",
+        "text": "One may install additonal features into LaTeX. Thus unknown keywords may very well be valid. However, we woudn't ask such a mean question!",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex005a-h2",
+        "type": "hint",
+        "dependencies": ["latex005a-h1"],
+        "title": "Remembering special things",
+        "text": "Recall what you know about the keywords and characters with special meanings.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex005a-h3",
+        "type": "hint",
+        "dependencies": ["latex005a-h2"],
+        "title": "Thinking about escape",
+        "text": "If you wanted to show {} what would you have to do?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

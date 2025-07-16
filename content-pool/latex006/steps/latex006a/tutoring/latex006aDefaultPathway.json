@@ -1,0 +1,22 @@
+[
+    {
+        "id": "latex006a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Thinking about whats possible for a text creating software",
+        "text": "Put yourself in the shoes of the software. Which options would you rather check for beeing a comment?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex006a-h2",
+        "type": "hint",
+        "dependencies": ["latex006a-h1"],
+        "title": "Think about the user",
+        "text": "Technical feasability and ease are important, but so is the user. Which options do you think are easier to type for users?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

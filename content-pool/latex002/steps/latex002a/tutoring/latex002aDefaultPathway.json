@@ -1,0 +1,42 @@
+[
+    {
+        "id": "latex002a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "HTML is something else",
+        "text": "Are you familiar with HTML? Head, Body and Footer are the structure there. Not for LaTeX.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex002a-h2",
+        "type": "hint",
+        "dependencies": ["latex002a-h1"],
+        "title": "A little bit about physics and philosophy",
+        "text": "Everything in reality strifes for entropy. The digital world however, is not reality.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex002a-h3",
+        "type": "hint",
+        "dependencies": ["latex002a-h2"],
+        "title": "Ruling out an option",
+        "text": "A strong body is always a good thing. However, LaTeX can do much more than create a body of text.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex002a-h4",
+        "type": "hint",
+        "dependencies": ["latex002a-h3"],
+        "title": "Ruling out another option",
+        "text": "Just as with the body, LaTeX does not need always have a table of content.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

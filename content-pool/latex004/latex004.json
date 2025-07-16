@@ -1,0 +1,10 @@
+{
+    "id": "latex004",
+    "title": "Graphics and LaTeX.",
+    "body": "As a prerequisite, assume a PDF diagram1.pdf is stored in the same folder as your .tex file.",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+    "lesson": "LaTeX 101",
+    "courseName": "ILE Lab"
+}

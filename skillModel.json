@@ -60,5 +60,95 @@
     ,
         "zzzzz_git004a": [
         "basic_git_operations"
+    ],
+    "zzzzz_gg1": [
+        "general_knowledge"
+    ],
+    "zzzzz_gg2": [
+        "european_continent"
+    ],
+    "zzzzz_gg3": ["regional_geography"],
+    "zzzzz_gg4": ["cultural_literacy"],
+    "zzzzz_gg5": ["cultural_literacy"],
+    "zzzzz_gg6": ["civic_knowledge"],
+    "zzzzz_gg7": ["geographical_orientation"],
+    "zzzzz_gg8": ["general_knowledge"],
+    "zzzzz_gg9": ["cultural_literacy"],
+    "zzzzz_gg10": ["regional_geography"],
+    "latex001a": [
+        "latex_technicals"
+    ],
+    "latex002a": [
+        "latex_technicals"
+    ],
+    "latex003a": [
+        "formulars",
+        "greek_letters"
+    ],
+    "latex004a": [
+        "packages",
+        "keywords"
+    ],
+    "latex005a": [
+        "keywords"
+    ],
+    "latex006a": [
+        "formulars",
+        "keywords"
+    ],
+     "latex007a": [
+        "keywords"
+    ],
+     "latex008a": [
+        "latex_technicals"
+    ],
+     "latex009a": [
+        "keywords"
+    ],
+     "latex010a": [
+        "keywords"
+    ],
+    "latex011a": [
+        "keywords"
+    ],
+    "latex012a": [
+        "keywords"
+    ],
+     "latex013a": [
+        "keywords"
+    ],
+    "latex014a": [
+        "keywords"
+    ],
+    "latex015a": [
+        "keywords"
+    ],
+    "latex016a": [
+        "keywords"
+    ],
+    "latex016b": [
+        "keywords"
+    ],
+    "latex018a": [
+        "keywords"
+    ],
+    "latex019a": [
+        "keywords"
+    ],
+    "latex020a": [
+        "keywords"
+    ],
+    "latex021a": [
+        "keywords"
+    ],
+    "latex022a": [
+        "keywords"
+    ],
+    "latex023a": [
+        "keywords"
+    ],
+    "latex026a": [
+        "keywords",
+        "formulars"
     ]
 }

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "latex015a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Bullets in LaTeX",
+        "text": "\\begin{itemize} will create bullet points, not a numbered list.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex015a-h2",
+        "type": "hint",
+        "dependencies": ["latex015a-h1"],
+        "title": "Non-existing comands",
+        "text": "\\start{numbering} is not a LaTeX command. Unfortunatly this is simply something that can be forgoten.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "latex015a-h3",
+        "type": "hint",
+        "dependencies": ["latex015a-h2"],
+        "title": "English can be quite a precise language",
+        "text": "LaTeX wants to be precise. There is a verb in English for counting things up.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

@@ -1,0 +1,18 @@
+{
+    "id": "latex016a",
+    "stepAnswer": [
+        "\\title{}"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What is the command to add a title to your LaTeX document?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "\\title{}",
+        "\\addtitle{}",
+        "\\documenttitle{}",
+        "\\head{}"
+    ],
+    "answerLatex": "\\title{}"
+}

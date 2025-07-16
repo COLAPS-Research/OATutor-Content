@@ -1,0 +1,21 @@
+[{
+        "id": "zzzzz_gg4-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Where does it flow?",
+        "text": "It flows through cities like Cologne and Düsseldorf.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_gg4-h2",
+        "type": "hint",
+        "dependencies": ["zzzzz_gg4-h1"],
+        "title": "Feature type?",
+        "text": "It's one of the longest rivers in Europe. Read more here: https://ourrhine.eu/",        
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

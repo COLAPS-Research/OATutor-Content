@@ -1,0 +1,18 @@
+{
+    "id": "latex014a",
+    "stepAnswer": [
+        "\\"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which symbol must every LaTeX command start with?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "\\",
+        "%",
+        "/",
+        "$"
+    ],
+    "answerLatex": "\\"
+}
