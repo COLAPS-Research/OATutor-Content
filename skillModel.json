@@ -1,4 +1,52 @@
 {
+    "zzzzhistory01a": [
+        "historical_context",
+        "research_significance"
+    ],
+    "zzzzhistory02a": [
+        "historical_context",
+        "research_significance"
+    ],
+    "zzzzhistory03a": [
+        "historical_context",
+        "research_significance"
+    ],
+    "zzzzz_git001a": [
+        "basic_git_concepts"
+    ],
+    "zzzzz_git001b": [
+        "basic_git_concepts"
+    ],
+    "zzzzz_git001c": [
+        "basic_git_concepts",
+        "basic_git_operations"
+    ],
+    "zzzzz_git002a": [
+        "basic_git_operations"
+    ],
+    "zzzzz_git002b": [
+        "basic_git_operations"
+    ],
+    "zzzzz_git002c": [
+        "basic_git_operations"
+    ],
+    "zzzzz_git002d": [
+        "basic_git_operations"
+    ],
+    "zzzzz_gg1": [
+        "general_knowledge"
+    ],
+    "zzzzz_gg2": [
+        "european_continent"
+    ],
+    "zzzzz_gg3": ["regional_geography"],
+    "zzzzz_gg4": ["cultural_literacy"],
+    "zzzzz_gg5": ["cultural_literacy"],
+    "zzzzz_gg6": ["civic_knowledge"],
+    "zzzzz_gg7": ["geographical_orientation"],
+    "zzzzz_gg8": ["general_knowledge"],
+    "zzzzz_gg9": ["cultural_literacy"],
+    "zzzzz_gg10": ["regional_geography"],
     "latex001a": [
         "latex_technicals"
     ],
