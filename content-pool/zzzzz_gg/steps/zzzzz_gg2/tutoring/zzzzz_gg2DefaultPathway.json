@@ -1,0 +1,21 @@
+[{
+        "id": "zzzzz_gg2-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Geographic location and local language.",
+        "text": "It is located to the west of Germany and french is its official language.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_gg2-h2",
+        "type": "hint",
+        "dependencies": ["zzzzz_gg2-h1"],
+        "title": "Famous landmark?",
+        "text": "The Eiffel Tower is located in this country. Read more here: https://www.deutschland.de/en/topic/politics/germany-nine-neighbours-facts",        
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

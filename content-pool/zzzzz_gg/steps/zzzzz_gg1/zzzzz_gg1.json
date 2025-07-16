@@ -1,0 +1,19 @@
+{
+    "id": "zzzzz_gg1",
+    "stepAnswer": [
+        "Berlin"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What is the capital city of Germany?",
+    "stepBody": "##q1.png",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "Munich",
+            "Hamburg",
+            "Frankfurt",
+            "Berlin",
+            "Cologne"
+        ],
+    "answerLatex": "Berlin"
+}

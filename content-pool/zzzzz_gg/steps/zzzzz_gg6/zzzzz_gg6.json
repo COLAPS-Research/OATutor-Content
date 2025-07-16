@@ -1,0 +1,10 @@
+{
+    "id": "zzzzz_gg6",
+    "stepAnswer": ["16"],
+    "problemType": "TextBox",
+    "stepTitle": "How many federal states (Bundesländer) does Germany have?",
+    "stepBody": "How many federal states (Bundesländer) does Germany have?",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "16"
+}
