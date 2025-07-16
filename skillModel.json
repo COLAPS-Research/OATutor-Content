@@ -145,5 +145,44 @@
     ],
     "zzzzz_greek0010a": [
         "basic_greek_concepts"
+    ],
+    "ml_01a": [
+        "ml_fundamentals",
+        "overfitting_knowledge",
+        "fact_checking_ML",
+        "conceptual_differentiation"
+    ],
+    "ml_01b": [
+        "ml_fundamentals",
+        "underfitting_knowledge",
+        "fact_checking_ML",
+        "conceptual_differentiation"
+    ],
+    "ml_01c": [
+        "ml_fundamentals",
+        "overfitting_knowledge",
+        "conceptual_differentiation",
+        "data_interpretation",
+        "analytical_reasoning"
+    ],
+    "ml_01d": [
+        "ml_fundamentals",
+        "overfitting_knowledge",
+        "fact_checking_ML",
+        "conceptual_differentiation",
+        "conceptual_integration"
+    ],
+    "ml_01e": [
+        "ml_fundamentals",
+        "underfitting_knowledge",
+        "fact_checking_ML",
+        "conceptual_differentiation",
+        "conceptual_integration"
+    ],
+    "ml_01f": [
+        "ml_fundamentals",
+        "fact_checking_ML",
+        "conceptual_integration",
+        "generalization_understanding"
     ]
 }

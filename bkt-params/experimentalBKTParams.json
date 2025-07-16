@@ -64,5 +64,59 @@
         "probTransit": 0.18,
         "probSlip": 0.2,
         "probGuess": 0.23
+    },
+        "ml_fundamentals": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "overfitting_knowledge": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "underfitting_knowledge": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "fact_checking_ML": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "conceptual_differentiation": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "conceptual_integration": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "data_interpretation": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "analytical_reasoning": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "generalization_understanding": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
     }
 }

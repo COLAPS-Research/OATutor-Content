@@ -1,0 +1,32 @@
+[
+    {
+    "id": "ml_01a-h1",
+    "type": "hint",
+    "dependencies": [],
+    "title": "What does overfitting mean?",
+    "text": "Think about what happens when a model is too focused on the training data.",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+  },
+  {
+    "id": "ml_01a-h2",
+    "type": "hint",
+    "dependencies": ["ml_01a-h1"],
+    "title": "Training vs. Testing",
+    "text": "The model performs well on training data but fails on unseen examples.",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+  },
+  {
+    "id": "ml_01a-h3",
+    "type": "hint",
+    "dependencies": ["ml_01a-h2"],
+    "title": "Memorizing vs. Learning",
+    "text": "Overfitting = memorizing instead of learning.",
+    "variabilization": {},
+    "oer": "https://OATutor.io <OATutor>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+  }
+]
