@@ -64,5 +64,5 @@
         "probTransit": 0.18,
         "probSlip": 0.2,
         "probGuess": 0.23
-    },
+    }
 }
