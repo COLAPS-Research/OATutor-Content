@@ -1,0 +1,21 @@
+[{
+        "id": "zzzzz_gg3-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Famous festival?",
+        "text": "This state is known for Oktoberfest.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_gg3-h2",
+        "type": "hint",
+        "dependencies": ["zzzzz_gg3-h1"],
+        "title": "Historical background?",
+        "text": "It is both the oldest and the largest state in Germany. Read more here: https://www.deutschland.de/en/topic/politics/germany-europe/federal-states",        
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]
