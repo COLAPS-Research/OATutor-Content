@@ -1,0 +1,16 @@
+{
+
+  "id": "zzzzz_sql001d",
+  "stepTitle": "Aggregation with GROUP BY",
+  "stepBody": "The following SQL query correctly calculates the average score each student has across all courses:\n\nSELECT student_id, AVG(score) FROM enrollments GROUP BY student_id;",
+  "problemType": "MultipleChoice",
+  "answerType": "string",
+  "stepAnswer": [
+    "True"
+  ],
+  "choices": [
+    "True",
+    "False"
+  ],
+  "answerLatex": "True"
+}

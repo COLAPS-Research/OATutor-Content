@@ -11,6 +11,12 @@
         "historical_context",
         "research_significance"
     ],
+    "zzzzz_sql001a": [
+        "basic_sql_concepts"
+    ],
+    "zzzzz_sql001b": [
+        "basic_sql_concepts"
+    ],
     "zzzzz_git001a": [
         "basic_git_concepts"
     ],

@@ -1,0 +1,16 @@
+{
+  "id": "zzzzz_sql001a",
+  "stepAnswer": ["SELECT name, grade FROM students;"],
+  "problemType": "MultipleChoice",
+  "stepTitle": "Basic SELECT Statement",
+  "stepBody": "Write a query to display the names and grades of all students.",
+  "answerType": "string",
+  "variabilization": {},
+  "choices": [
+    "SELECT students FROM grades;",
+    "SELECT name, grade FROM students;",
+    "SELECT grade FROM name WHERE students;",
+    "SELECT FROM students WHERE grade;"
+  ],
+  "answerLatex": "SELECT name, grade FROM students;"
+}
