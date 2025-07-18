@@ -1,0 +1,11 @@
+[
+    {
+        "id": "zzzzz_sql001b-h1",
+        "type": "hint",
+        "dependencies": [],
+        "text": "Use a WHERE clause to specify the grade condition.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

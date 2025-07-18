@@ -1,0 +1,16 @@
+{
+
+  "id": "zzzzz_sql001e",
+  "stepTitle": "Conditional Filtering with Comparison",
+  "stepBody": "Write a query to find names and ages of students older than 20.",
+  "problemType": "MultipleChoice",
+  "answerType": "string",
+  "stepAnswer": ["SELECT name, age FROM students WHERE age > 20;"],
+  "choices": [
+    "SELECT name, age FROM students WHERE age > 20;",
+    "SELECT name, age WHERE age > 20 FROM students;",
+    "SELECT * FROM students WHERE name > 20;",
+    "SELECT age, name FROM WHERE students > 20;"
+  ],
+  "answerLatex": "SELECT name, age FROM students WHERE age > 20;"
+}
