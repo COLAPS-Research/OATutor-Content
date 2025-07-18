@@ -1,0 +1,18 @@
+{
+    "id": "Algebra_Basic002c",
+    "stepAnswer": [
+        "V"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What is the next letter in the sequence: B, D, G, K, P, ?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "S",
+        "T",
+        "V",
+        "R"
+    ],
+    "answerLatex": "V"
+}

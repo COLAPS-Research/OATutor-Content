@@ -1,32 +1,32 @@
 {
-    "zzzzhistory01a": [
+    "mathtutor01a": [
         "natural_number_sum"
     ],
-    "zzzzhistory02a": [
+    "mathtutor02a": [
         "leap_year_identification"
     ],
-    "zzzzhistory03a": [
+    "mathtutor03a": [
         "digit_puzzle"
     ],
-    "zzzzz_git002a": [
+    "Algebra_Basic002a": [
         "quadratic_factoring"
     ],
-    "zzzzz_git002b": [
+    "Algebra_Basic002b": [
         "divisibility_by_3"
     ],
-    "zzzzz_git002c": [
+    "Algebra_Basic002c": [
         "letter_sequence_prediction_1"
     ],
-    "zzzzz_git002d": [
+    "Algebra_Basic002d": [
         "letter_sequence_prediction_2"
     ],
-    "zzzzz_git001a": [
+    "Algebra_Basic001a": [
         "binary_to_decimal_4bit"
     ],
-    "zzzzz_git001b": [
+    "Algebra_Basic001b": [
         "arithmetic_word_problem"
     ],
-    "zzzzz_git001c": [
+    "Algebra_Basic001c": [
         "mini_sudoku"
     ]
 }

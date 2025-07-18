@@ -1,0 +1,18 @@
+{
+    "id": "Algebra_Basic002d",
+    "stepAnswer": [
+        "I"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What is the next letter in the sequence: A, D, ?, P, Y?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices":[
+        "G",
+        "I",
+        "F",
+        "H"
+    ],
+    "answerLatex": "I"
+}

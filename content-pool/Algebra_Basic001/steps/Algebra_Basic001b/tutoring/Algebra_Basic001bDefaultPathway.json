@@ -1,0 +1,48 @@
+[
+    {
+        "id": "Algebra_Basic001b-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Define the Numbers",
+        "text": "Let the first number be x. Then the second number is 2x, and the third number is 2x + 5. ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "Algebra_Basic001b-h2",
+        "type": "hint",
+        "dependencies": [
+            "Algebra_Basic001b-h1"
+        ],
+        "title": "Set Up the Equation",
+        "text": "Add the three numbers: x + 2x + (2x + 5) = 60 ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "Algebra_Basic001b-h3",
+        "type": "hint",
+        "dependencies": [
+            "Algebra_Basic001b-h2"
+        ],
+        "title": "Simplify and Solve",
+        "text": "Combine like terms: 5x + 5 = 60 → Subtract 5: 5x = 55 → Divide by 5: x = 11 ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+     {
+        "id": "Algebra_Basic001b-h4",
+        "type": "hint",
+        "dependencies": [
+            "Algebra_Basic001b-h3"
+        ],
+        "title": "Find the Smallest Number",
+        "text": "The first number is x = 11, which is the smallest of the three numbers. ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

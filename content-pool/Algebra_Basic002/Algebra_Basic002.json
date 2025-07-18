@@ -1,0 +1,10 @@
+{
+    "id": "Algebra_Basic002",
+    "title": "Algebra Basics",
+    "body": "Answer the following questions.",
+    "variabilization": {},    
+    "ore": "https://git-scm.com/docs/gittutorial <Git SCM: gittutorial>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+    "lesson": "1.2: Algebra Basics",
+    "courseName": "ILE Lab"
+}

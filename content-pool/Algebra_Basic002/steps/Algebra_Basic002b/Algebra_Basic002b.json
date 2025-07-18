@@ -1,0 +1,18 @@
+{
+    "id": "Algebra_Basic002b",
+    "stepAnswer": [
+        "1234560"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Rule: A number is divisible by 3 if the sum of its digits is divisible by 3",
+    "stepBody": "Which 7-digit number is divisible by 3? ",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+        "1234560",
+        "7654321",
+        "1111111",
+        "1234567"
+    ],
+    "answerLatex": "1234560"
+}

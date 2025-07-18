@@ -1,0 +1,48 @@
+[
+    {
+        "id": "Algebra_Basic001a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Understanding Binary Place Values",
+        "text": "Each binary digit (bit) represents a power of 2, starting from the right (2⁰, 2¹, 2², etc.). Multiply each bit by its place value and add them together. ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "Algebra_Basic001a-h2",
+        "type": "hint",
+        "dependencies": [
+            "Algebra_Basic001a-h1"
+        ],
+        "title": "Step 1: Assign Place Values to Each Bit",
+        "text": "Write the place values under each digit of 1011 (from left to right): 1(*8), 0(*4), 1(*2), 1(*1) ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "Algebra_Basic001a-h3",
+        "type": "hint",
+        "dependencies": [
+            "Algebra_Basic001a-h2"
+        ],
+        "title": "Step 2: Multiply Each Bit by Its Place Value",
+        "text": "Multiply each binary digit by its value: 1*8=8,  0*4=0,  1*2=2,  1*1=1 ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "Algebra_Basic001a-h4",
+        "type": "hint",
+        "dependencies": [
+            "Algebra_Basic001a-h3"
+        ],
+        "title": "Step 3: Add the Results to Find the Decimal Value",
+        "text": "Add the results: 8 + 0 + 2 + 1 = 11. ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }    
+]

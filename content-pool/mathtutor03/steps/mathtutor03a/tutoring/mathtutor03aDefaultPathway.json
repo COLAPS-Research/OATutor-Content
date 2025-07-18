@@ -1,0 +1,36 @@
+[
+    {
+        "id": "mathtutor03a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Start with the Clue",
+        "text": "Try digit pairs where the tens digit = 2*units digit. ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "mathtutor03a-h2",
+        "type": "hint",
+        "dependencies": [
+            "mathtutor03a-h1"
+        ],
+        "title": "Use Equations to Solve",
+        "text": "Let x = tens digit and y = units digit. x + y = 12 and x = 2y → Try: 2y + y = 12 → y = 4 → x = 8 ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "mathtutor03a-h3",
+        "type": "hint",
+        "dependencies": [
+            "mathtutor03a-h2"
+        ],
+        "title": "Final Check and Number",
+        "text": "Now x = 8 and y = 4 → The number is 84. Check: 8 = 2*4 and 8 + 4 = 12 ✅",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

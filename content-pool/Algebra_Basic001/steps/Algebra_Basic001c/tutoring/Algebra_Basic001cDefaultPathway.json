@@ -1,0 +1,52 @@
+[
+    {
+        "id": "Algebra_Basic001c-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Understand the Rules",
+        "text": "Each row, column, and 3x3 grid must contain the numbers 1, 2, and 3 exactly once, with no repetitions. ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+
+    },
+    {
+        "id": "Algebra_Basic001c-h2",
+        "type": "hint",
+        "dependencies": [
+            "Algebra_Basic001c-h1"
+        ],
+        "title": "Start with the First Row",
+        "text": "The first row is: 1 _ 3. What number is missing to complete 1, 2, 3? ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+
+    },
+    {
+        "id": "Algebra_Basic001c-h3",
+        "type": "hint",
+        "dependencies": [
+            "Algebra_Basic001c-h2"
+        ],
+        "title": "Complete the Third Row",
+        "text": "Think about the available numbers and the pattern.The third row is: 3 _ 2. Which number is missing to make it contain 1, 2, and 3?",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+
+    },
+    {
+        "id": "Algebra_Basic001c-h4",
+        "type": "hint",
+        "dependencies": [
+            "Algebra_Basic001c-h3"
+        ],
+        "title": "Solve the Second Row with Logic",
+        "text": "The second row has: _ 3 _. Use column clues to figure out the correct numbers that complete the row without repeating in columns.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+
+    }
+]

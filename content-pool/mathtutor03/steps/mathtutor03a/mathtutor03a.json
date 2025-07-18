@@ -1,0 +1,18 @@
+{
+    "id": "mathtutor03a",
+    "stepAnswer": [
+        "84"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Digit Riddle",
+    "stepBody": "I am a two-digit number. My tens digit is twice my units digit. The sum of my digits is 12. What number am I ? [ ___ ] ",
+    "answerType": "string",
+    "variabilization": {},
+    "choices":[
+        "93",
+        "84",
+        "63",
+        "48"
+    ],
+    "answerLatex": "84"
+}

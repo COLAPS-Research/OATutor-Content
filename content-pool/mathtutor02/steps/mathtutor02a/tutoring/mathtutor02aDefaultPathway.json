@@ -1,0 +1,48 @@
+[
+    {
+        "id": "mathtutor02a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Leap Year Rule Overview",
+        "text": "A leap year is divisible by 4, but if it's a century year (like 1900), it must also be divisible by 400. ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "mathtutor02a-h2",
+        "type": "hint",
+        "dependencies": [
+            "mathtutor02a-h1"
+        ],
+        "title": "Check Divisibility by 4",
+        "text": "Is the year divisible by 4? Yes → Continue , No → Not a leap year ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "mathtutor02a-h3",
+        "type": "hint",
+        "dependencies": [
+            "mathtutor02a-h2"
+        ],
+        "title": "Check if It's a Century Year",
+        "text": "Is it divisible by 100? Yes → Must be divisible by 400 too , No → It's a leap year ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "mathtutor02a-h4",
+        "type": "hint",
+        "dependencies": [
+            "mathtutor02a-h3"
+        ],
+        "title": "Must Also Divide by 400",
+        "text": "Is the year divisible by 400? 2000 ÷ 400 = 5 → Valid → Leap year  ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]
